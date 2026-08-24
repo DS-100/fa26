@@ -1,0 +1,139 @@
+### LECTURE ORDERING ###
+# each entry requires either a 'slug' or a 'title' field
+
+# use the slug if you utilize the _lectures collection. this will take info
+# from the front matter of the corresponding file in _lectures/
+# if your filename has a leading zero, quotes are required around the slug
+# if you use the _lectures collection, the title field will be useful for
+# one-off overrides like holidays or for placeholders; use the title field sparingly
+
+# nonumber supresses the label and numbering for the lecture entry
+# skip: true will omit the lecture from the schedule entirely
+
+# link overrides the default link to the lecture page from the collection if 
+# you provided a slug or provides an external link
+
+# readings appear in the third column of the schedule page. If you have a single reading
+# provide title and link. If you have multiple readings, provide a list of links with 
+# text and url fields (no title field necessary in this case). You can skip readings by not
+# providing the readings field.
+
+lectures:
+  - slug: "01"
+    readings:
+      - title: Note 1
+        link: https://ds100.org/course-notes/introduction/
+  - slug: "02"
+    readings:
+      - title: Note 2
+        link: https://ds100.org/course-notes/pandas-1/
+  - slug: "03"
+    readings:
+      - title: Note 3
+        link: https://ds100.org/course-notes/pandas-2/
+  - slug: "04"
+    readings:
+      - title: Note 4
+        link: https://ds100.org/course-notes/pandas-3/
+  - slug: "05"
+    readings:
+      - title: Note 5
+        link: https://ds100.org/course-notes/eda/
+  - slug: "06"
+    readings:
+      - title: Note 6
+        link: https://ds100.org/course-notes/regex/
+  - slug: "07"
+    readings:
+      - title: Note 7
+        link: https://ds100.org/course-notes/visualization-1/
+  - slug: "08"
+    readings:
+      - title: Note 8
+        link: https://ds100.org/course-notes/visualization-2/
+  - slug: "09"
+    readings:
+      - title: Note 9
+        link: https://ds100.org/course-notes/sampling/
+  - slug: "10"
+    readings:
+      - title: Note 10
+        link: https://ds100.org/course-notes/modeling-slr/
+  - slug: "11"
+    readings:
+      - title: Note 11
+        link: https://ds100.org/course-notes/loss-transformations/
+  - slug: "12"
+    readings:
+      - title: Note 12
+        link: https://ds100.org/course-notes/ols/
+  - slug: "13"
+    readings:
+      - title: Note 13
+        link: https://ds100.org/course-notes/gradient-descent/
+  - slug: "14"
+    readings:
+      - title: Note 14
+        link: https://ds100.org/course-notes/feature-engineering/
+  - slug: "15"
+    readings:
+      - title: Note 15
+        link: https://ds100.org/course-notes/cv-reg/
+  - slug: "16"
+    readings:
+      - title: Note 16
+        link: https://ds100.org/course-notes/case-study-hce/
+  - slug: "17"
+    readings:
+      - title: Note 17
+        link: https://ds100.org/course-notes/cv-reg/
+  - slug: "18"
+    readings:
+      - title: Note 18
+        link: https://ds100.org/course-notes/probability-1/ 
+  # - title: "Spring Break"
+  #   nonumber: true
+  # - title: "Spring Break"
+  #   nonumber: true
+  - slug: "19"
+    readings:
+      - title: Note 19
+        link: https://ds100.org/course-notes/probability-2/
+  - slug: "20"
+    readings:
+      - title: Note 20
+        link: https://ds100.org/course-notes/inference-causality/
+  - slug: "21"
+    readings:
+      - title: Note 21
+        link: https://ds100.org/course-notes/sql-i/
+  - slug: "22"
+    readings:
+      - title: Note 22
+        link: https://ds100.org/course-notes/sql-ii/
+  - slug: "23"
+    readings:
+      - title: Note 23
+        link: https://ds100.org/course-notes/logistic-reg-1/
+  - slug: "24"
+    readings:
+      - title: Note 24
+        link: https://ds100.org/course-notes/logistic-reg-2/
+  - slug: "25"
+    readings:
+      - title: Note 25
+        link: https://ds100.org/course-notes/clustering/
+  - slug: "26"
+    readings:
+      - title: Note 26
+        link: https://ds100.org/course-notes/pca/
+  - slug: "27"
+  - skip: true # paper midterm 3
+  - skip: true # final review
+  - title: "RRR Week"
+    nonumber: true
+  - title: "Finals Week"
+    nonumber: true
+  - skip: true # finals week
+  # - title: "Finals Week"
+  #   nonumber: true

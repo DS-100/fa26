@@ -1,0 +1,21 @@
+# treat this YAML similar to _data/projects.yml
+# each entry requires title, date, and label-number
+# link: optional; hyperlinks the title to the assignment URL (same as released)
+# skip: true will omit the project due date from the schedule entirely
+projects-due:
+  # - title: "Housing I"
+  #   date: 2026-03-20
+  #   label-number: A1
+  #   link: https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsp26-student&branch=main&urlpath=lab%2Ftree%2Fsp26-student%2Fproj%2FprojA1%2FprojA1.ipynb
+  # - title: "Housing II"
+  #   date: 2026-04-03
+  #   label-number: A2
+  #   link: https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsp26-student&branch=main&urlpath=lab%2Ftree%2Fsp26-student%2Fproj%2FprojA2%2FprojA2.ipynb
+  # - title: "Spam & Ham I"
+  #   date: 2026-04-24
+  #   label-number: B1
+  #   link: https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsp26-student&branch=main&urlpath=lab%2Ftree%2Fsp26-student%2Fproj%2FprojB1%2FprojB1.ipynb
+  # - title: "Spam & Ham II"
+  #   date: 2026-05-05
+  #   label-number: B2
+  #   link: https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsp26-student&branch=main&urlpath=lab%2Ftree%2Fsp26-student%2Fproj%2FprojB2%2FprojB2.ipynb

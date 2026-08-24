@@ -1,0 +1,133 @@
+// Put your custom CSS here!
+// You an reference all variables in the Berkeley files
+.staffer-badge.label-Pedagogy {
+  background-color: #9C3848 !important;
+  color: white !important;
+}
+
+/* Ensure table links meet WCAG 2.2 Target Size (24px) */
+.a11y-spacing-table {
+  table-layout: fixed;
+  width: 100%;
+
+  th, td {
+    box-sizing: border-box;
+  }
+
+  /* Semester: compact; Reference Sheet: compact; middle columns get more space */
+  th:nth-child(1), td:nth-child(1) { width: 12%; }
+  th:nth-child(2), td:nth-child(2),
+  th:nth-child(3), td:nth-child(3),
+  th:nth-child(4), td:nth-child(4),
+  th:nth-child(5), td:nth-child(5) { width: 19%; }
+  th:nth-child(6), td:nth-child(6) { width: 12%; }
+
+  td a {
+    display: inline-block;
+    padding: 4px 2px;
+    min-height: 24px;
+    line-height: 1.2;
+  }
+}
+
+/* Past Exams By Topic tables: equal column widths, separate Solutions column */
+.exam-topic-table {
+  table-layout: fixed;
+  width: 100%;
+
+  th, td {
+    width: 33.33%;
+    box-sizing: border-box;
+  }
+}
+
+.instructor-grid {
+  display: flex;       /* Put items side-by-side */
+  flex-wrap: wrap;     /* Allow wrapping to the next line if space runs out */
+  gap: 20px;           /* Space between the cards */
+  justify-content: flex-start; /* Align them to the left */
+}
+
+.staffer-container {
+  flex: 0 1 auto;      /* Don't force them to stretch, keep natural size */
+  min-width: 200px;    /* Optional: ensures cards don't get too squashed */
+}
+
+.btn-traditional{
+  @include btn-color($white, #444444);
+}
+
+
+.btn-sections {
+  @include btn-color($white, #6929c4);
+}
+
+.btn-currentweek{
+  @include btn-color($white, #355F41);
+}
+
+#schedule .btn-currentweek {
+  font-size: 1rem;
+  margin-left: 1rem;
+  font-family: $body-font-family;
+}
+
+/* Calendar event type toggles — match FullCalendar week/day button colors */
+.calendar-event-toggles-wrapper {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  margin-bottom: 1rem;
+}
+
+.calendar-event-toggles {
+  display: inline-flex;
+  flex-wrap: nowrap;
+  align-items: stretch;
+  border: 1px solid var(--fc-button-border-color, #2c3e50);
+  border-radius: 6px;
+  overflow: hidden;
+  font-size: 0.9rem;
+
+  .calendar-toggle-btn {
+    padding: 0.4rem 0.75rem;
+    border: none;
+    border-left: 1px solid rgba(0, 0, 0, 0.08);
+
+    &:first-child {
+      border-left: none;
+    }
+    /* Non-selected: light background */
+    background: #e8eaed;
+    color: #3c4043;
+    cursor: pointer;
+    font: inherit;
+    font-weight: 500;
+    transition: background 0.15s, color 0.15s;
+
+    &:hover:not(.active) {
+      background: #dadce0;
+    }
+
+    /* Selected: dark to match week/day toggles */
+    &.active {
+      background: var(--fc-button-active-bg-color, #1a252f);
+      color: var(--fc-button-text-color, #fff);
+    }
+  }
+}
+
+.site-logo {
+  background-position: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+.site-header {
+  display: flex;
+  align-items: center; 
+  justify-content: center;
+  min-height: 150px !important;
+}

@@ -1,0 +1,88 @@
+{% capture btn_aria_label %}
+  {%- if site.color_scheme == 'dark' -%}
+  Switch to Light Mode
+  {%- else -%}
+  Switch to Dark Mode
+  {%- endif -%}
+{% endcapture %}
+
+<span class="fs-3">
+  <button type="button"
+    class="btn js-toggle-dark-mode btn-outline"
+    style="margin-right: -3px; border-top-right-radius: 0; border-bottom-right-radius: 0;"
+    aria-label="{{ btn_aria_label }}">
+    {%- if site.color_scheme == 'dark' -%}
+    🔆 Light Mode
+    {%- else -%}
+    🌙 Dark Mode
+    {%- endif -%}
+  </button>
+  <button type="button"
+    class="btn js-unset-color-scheme btn-outline px-2"
+    style="margin-left: -3px; border-top-left-radius: 0; border-bottom-left-radius: 0;"
+    aria-label="Use system appearance"
+    ><i class="fa-solid fa-rotate" title="Use system appearance"></i></button>
+</span>
+
+<script>
+(function() {
+  // Prevent double-loading
+  if (window.themeScriptRan) return;
+  window.themeScriptRan = true;
+
+  document.addEventListener("DOMContentLoaded", function() {
+    // Check if JTD is actually loaded
+    if (typeof jtd === 'undefined') {
+      console.error("JTD is not defined. Check if jtd.js is loading.");
+      return; 
+    }
+
+    const toggleSchemeBtns = document.querySelectorAll('.js-toggle-dark-mode');
+    const unsetColorSchemeBtns = document.querySelectorAll('.js-unset-color-scheme');
+
+    function updateButtonUI(theme) {
+      toggleSchemeBtns.forEach(function(btn) {
+        if (theme === 'dark') {
+          btn.textContent = '🔆 Light Mode';
+          btn.ariaLabel = 'Switch to Light Mode';
+        } else {
+          btn.textContent = '🌙 Dark Mode';
+          btn.ariaLabel = 'Switch to Dark Mode';
+        }
+      });
+    }
+
+    // Apply theme before button listeners
+    const savedTheme = localStorage.getItem('jtd-theme');
+    const systemDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+    const initialTheme = savedTheme || (systemDark ? 'dark' : 'light');
+
+    jtd.setTheme(initialTheme);
+    document.documentElement.setAttribute('data-theme', initialTheme);
+    updateButtonUI(initialTheme);
+
+    // Toggle Logic (attach to all instances - sidebar + mobile footer)
+    function handleToggle() {
+      const current = document.documentElement.getAttribute('data-theme') || jtd.getTheme();
+      const nextTheme = (current === 'dark') ? 'light' : 'dark';
+
+      jtd.setTheme(nextTheme);
+      localStorage.setItem('jtd-theme', nextTheme);
+      document.documentElement.setAttribute('data-theme', nextTheme);
+      updateButtonUI(nextTheme);
+    }
+    toggleSchemeBtns.forEach(function(btn) { jtd.addEvent(btn, 'click', handleToggle); });
+
+    // Reset Logic (Sync with system preference)
+    function handleUnset() {
+      localStorage.removeItem('jtd-theme');
+      const systemDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+      const newTheme = systemDark ? 'dark' : 'light';
+      jtd.setTheme(newTheme);
+      document.documentElement.setAttribute('data-theme', newTheme);
+      updateButtonUI(newTheme);
+    }
+    unsetColorSchemeBtns.forEach(function(btn) { jtd.addEvent(btn, 'click', handleUnset); });
+  });
+})();
+</script>

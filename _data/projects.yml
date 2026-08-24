@@ -1,0 +1,22 @@
+### PROJECTS ORDERING ###
+# title and date are required for each entry
+# link is optional
+# label number is optional. You can make this 
+# 1, 2, 3, etc. or A, B, C, etc. or whatever you want
+projects:
+  - title: "Housing I"
+    date: 2026-03-12
+    label-number: A1
+    link: https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsp26-student&branch=main&urlpath=lab%2Ftree%2Fsp26-student%2Fproj%2FprojA1%2FprojA1.ipynb
+  - title: "Housing II"
+    date: 2026-03-19
+    label-number: A2
+    link: https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsp26-student&branch=main&urlpath=lab%2Ftree%2Fsp26-student%2Fproj%2FprojA2%2FprojA2.ipynb
+  - title: "Spam & Ham I"
+    date: 2026-04-16
+    label-number: B1
+    link: https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsp26-student&branch=main&urlpath=lab%2Ftree%2Fsp26-student%2Fproj%2FprojB1%2FprojB1.ipynb
+  - title: "Spam & Ham II"
+    date: 2026-04-23
+    label-number: B2
+    link: https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsp26-student&branch=main&urlpath=lab%2Ftree%2Fsp26-student%2Fproj%2FprojB2%2FprojB2.ipynb

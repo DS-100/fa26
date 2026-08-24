@@ -1,0 +1,56 @@
+### LAB ORDERING ###
+# each entry requires either a 'slug' or a 'title' field
+
+# use the slug if you utilize the _labs collection. this will take info
+# from the front matter of the corresponding file in _labs/
+# if your filename has a leading zero, quotes are required around the slug.
+# if you use the _labs collection, the title field will be useful for
+# one-off overrides like holidays or for placeholders; use the title field sparingly
+
+# nonumber supresses the label and numbering for the lab entry
+# skip: true will omit the lab from the schedule entirely
+
+# link overrides the default link to the lab page from the collection if 
+# you provided a slug or provides an external link
+labs:
+  - skip: true # lab 1 on syllabus.yml to shift to W release
+  - title: "Pandas"
+    label-number: 2A
+    link: https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsp26-student&branch=main&urlpath=lab%2Ftree%2Fsp26-student%2Flab%2Flab02A%2Flab02A.ipynb
+  - title: "Data Cleaning and EDA"
+    label-number: 2B
+    link: https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsp26-student&branch=main&urlpath=lab%2Ftree%2Fsp26-student%2Flab%2Flab02B%2Flab02B.ipynb
+  - title: "Regex and EDA"
+    label-number: 3
+    link: https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsp26-student&branch=main&urlpath=lab%2Ftree%2Fsp26-student%2Flab%2Flab03%2Flab03.ipynb
+  - title: "Visualization, Transformations, and KDEs"
+    label-number: 4
+    link: https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsp26-student&branch=main&urlpath=lab%2Ftree%2Fsp26-student%2Flab%2Flab04%2Flab04.ipynb
+  - title: "Modeling, Loss, Summary Stats, and OLS"
+    label-number: 5
+    link: https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsp26-student&branch=main&urlpath=lab%2Ftree%2Fsp26-student%2Flab%2Flab05%2Flab05.ipynb
+  - skip: true
+  - title: "Gradient Descent and sklearn"
+    label-number: 6
+    link: https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsp26-student&branch=main&urlpath=lab%2Ftree%2Fsp26-student%2Flab%2Flab06%2Flab06.ipynb
+  - title: "Model Selection, Regularization, and CV"
+    label-number: 7
+    link: https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsp26-student&branch=main&urlpath=lab%2Ftree%2Fsp26-student%2Flab%2Flab07%2Flab07.ipynb
+  - skip: true # spring break
+  - title: "Probability"
+    label-number: 8
+    link: https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsp26-student&branch=main&urlpath=lab%2Ftree%2Fsp26-student%2Flab%2Flab08%2Flab08.ipynb
+  - title: "SQL"
+    label-number: 9
+    link: https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsp26-student&branch=main&urlpath=lab%2Ftree%2Fsp26-student%2Flab%2Flab09%2Flab09.ipynb
+  - title: "Logistic Regression"
+    label-number: 10
+    link: https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsp26-student&branch=main&urlpath=lab%2Ftree%2Fsp26-student%2Flab%2Flab10%2Flab10.ipynb
+  - title: "PCA and Clustering"
+    label-number: 11
+    link: https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsp26-student&branch=main&urlpath=lab%2Ftree%2Fsp26-student%2Flab%2Flab11%2Flab11.ipynb
+  # - skip: true
+  # - title: "RRR Week"
+  #   nonumber: true
+  # - title: "Finals Week"
+  #   nonumber: true

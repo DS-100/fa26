@@ -1,0 +1,41 @@
+### HOMEWORK ORDERING ###
+# each entry requires either a 'slug' or a 'title' field
+
+# use the slug if you utilize the _hw collection. this will take info
+# from the front matter of the corresponding file in _hw/
+# if your filename has a leading zero, quotes are required around the slug.
+# if you use the _hw collection, the title field will be useful for
+# one-off overrides like holidays or for placeholders; use the title field sparingly
+
+# nonumber supresses the label and numbering for the homework entry
+# skip: true will omit the homework from the schedule entirely
+
+# link overrides the default link to the homework page from the collection if 
+# you provided a slug or provides an external link
+homework:
+  - skip: true # hw 1 on syllabus.yml to shift to W release
+  - title: "Food Safety I"
+    label-number: 2A
+    link: https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsp26-student&branch=main&urlpath=lab%2Ftree%2Fsp26-student%2Fhw%2Fhw02A%2Fhw02A.ipynb
+  - title: "Food Safety II"
+    label-number: 2B
+    link: https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsp26-student&branch=main&urlpath=lab%2Ftree%2Fsp26-student%2Fhw%2Fhw02B%2Fhw02B.ipynb
+  - title: "NYT Articles"
+    label-number: 3
+    link: https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsp26-student&branch=main&urlpath=lab%2Ftree%2Fsp26-student%2Fhw%2Fhw03%2Fhw03.ipynb
+  - skip: true # "Homework 4: Visualization"
+  - title: "Modeling and OLS"
+    label-number: 5
+    link: https://drive.google.com/file/d/1tQKErPqTbrHjVFNMtl_inAsyl5P_YjYu/view?usp=sharing
+  - skip: true
+  - skip: true # proj A1
+  - skip: true # proj A2
+  - skip: true # spring break
+  - title: "Coding"
+    label-number: 6
+    link: https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsp26-student&branch=main&urlpath=lab%2Ftree%2Fsp26-student%2Fhw%2Fhw06%2Fhw06.ipynb
+  - title: "SQL"
+    label-number: 7
+    link: https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsp26-student&branch=main&urlpath=lab%2Ftree%2Fsp26-student%2Fhw%2Fhw07%2Fhw07.ipynb
+  - skip: true # proj B1
+  - skip: true # proj B2

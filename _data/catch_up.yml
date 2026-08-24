@@ -1,0 +1,34 @@
+### CATCH-UP ORDERING ###
+# Mirrors the structure/behavior of `_data/discussions.yml`.
+#
+# each entry requires either a 'slug' or a 'title' field
+#
+# use the slug if you utilize the _catch_up collection. this will take info
+# from the front matter of the corresponding file in _catch_up/
+#
+# nonumber suppresses the label and numbering for the entry
+# skip: true will omit the catch-up from the schedule entirely
+#
+# link overrides the default link to the collection page if you provided a slug
+# or provides an external link
+catch_up:
+  - skip: true # no catch-up on the first Friday
+  - slug: "01" # pandas
+  - slug: "02" # Data Cleaning, EDA, Regex
+  - slug: "03" # Visualization
+  - slug: "04" # "Sampling, Modeling, SLR"
+  - slug: "05" # Constant Model, Loss, Transformations
+  - skip: true #  mt1 review
+  - slug: "06" # OLS, Gradient Descent, Feature Engineering
+  - slug: "07" # CV, Regularization, RVs
+  - title: "Spring Break" # spring break
+    nonumber: true
+  - skip: true # mt2 review
+  - slug: "08" # Bias-Variance, Inference
+  - slug: "09" # SQL, Logistic Regression
+  - skip: true # mt3 review
+  - skip: true # catch-up 10 moved up to monday; "PCA, Clustering"
+  - title: "RRR Week" # rrr week
+    nonumber: true
+  - title: "Finals Week" # finals week
+    nonumber: true
