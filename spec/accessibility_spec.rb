@@ -25,7 +25,7 @@ excluded_elements = [
 ]
 
 SKIPPED_PAGES = [
-  '/sp26/acks/'
+  '/fa26/acks/'
 ]
 
 # We must call this to ensure the build it up-to-date.
