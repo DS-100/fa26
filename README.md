@@ -1,4 +1,4 @@
-# Data 100 Spring 2026 Website
+# Data 100 Fall 2026 Website
 
 [![Deploy Jekyll site to Pages](https://github.com/DS-100/fa26/actions/workflows/jekyll.yml/badge.svg)](https://github.com/DS-100/fa26/actions/workflows/jekyll.yml) [![Run all page tests](https://github.com/DS-100/fa26/actions/workflows/rspec.yml/badge.svg)](https://github.com/DS-100/fa26/actions/workflows/rspec.yml)
 
