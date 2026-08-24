@@ -1,6 +1,6 @@
 # Data 100 Spring 2026 Website
 
-[![Deploy Jekyll site to Pages](https://github.com/DS-100/sp26/actions/workflows/jekyll.yml/badge.svg)](https://github.com/DS-100/sp26/actions/workflows/jekyll.yml) [![Run all page tests](https://github.com/DS-100/sp26/actions/workflows/rspec.yml/badge.svg)](https://github.com/DS-100/sp26/actions/workflows/rspec.yml)
+[![Deploy Jekyll site to Pages](https://github.com/DS-100/fa26/actions/workflows/jekyll.yml/badge.svg)](https://github.com/DS-100/fa26/actions/workflows/jekyll.yml) [![Run all page tests](https://github.com/DS-100/fa26/actions/workflows/rspec.yml/badge.svg)](https://github.com/DS-100/fa26/actions/workflows/rspec.yml)
 
 Check out the template repository (scroll up!) for information about editing this site! Some set up information below, but no need to use a devcontainer if local set up works fine. 
 
