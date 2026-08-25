@@ -7,6 +7,9 @@ description: >-
 markdown: kramdown
 ---
 
+{: .warning }
+⚠️ The content on this page is subject to change while this banner is present.
+
 
 # Syllabus
 {:.no_toc}
