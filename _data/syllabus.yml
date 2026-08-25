@@ -123,6 +123,6 @@ starting_week_number: '1'
 
 # Fefine the width of each column in the schedule
 date_width: "15%"
-col2_width: "31%"
-col3_width: "23%"
+col2_width: "34%"
+col3_width: "20%"
 col4_width: "31%"
