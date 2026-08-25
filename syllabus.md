@@ -164,7 +164,7 @@ All students enrolled in the graduate version of the course (Data 200 or Data 20
 We want to enable everyone to succeed in this course. We encourage you to discuss course content with your friends, classmates, and course staff throughout the semester, particularly during **office hours**.
 
 - All office hours will be updated on the Calendar.
-- In-person course staff office hours will be held in Warren Hall 101B. Check the calendar to see what section our staff is in.
+- In-person course staff office hours will be held in the Gateway Building. Check the calendar to see which room our staff is in.
 - In general, students can come to staff office hours for any questions on course assignments or material.
 - Instructor office hours are generally reserved for conceptual questions, course review, course logistics, research opportunities, and career planning.
 
