@@ -75,7 +75,7 @@ There are 2 live **lectures** held on Tuesdays and Thursdays, 12:30pm-2:00pm, hy
 
 ### Discussion
 
-Live **discussion sections** are one hour long, and held once a week on Wednesday or Thursday. The goal of these TA-led sessions is to work through problems, hone your skills, and flesh out your understanding as part of a team. The problems that you solve and present as part of discussion are important in understanding course material. 
+Live **discussion sections** are one hour long, and held once a week on Tuesday or Wednesday. The goal of these TA-led sessions is to work through problems, hone your skills, and flesh out your understanding as part of a team. The problems that you solve and present as part of discussion are important in understanding course material. 
 
 The lectures, assignments, and exams of this course are structured with the **expectation that all students complete the tasks in the discussion worksheet, either by attending section or on their own time.** The content covered in these sections is designed to solidify understanding of key lecture concepts and prepare students for homework assignments. It is to your benefit to actively participate in all discussions.
 
