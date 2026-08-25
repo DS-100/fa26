@@ -306,7 +306,7 @@ compress_html:
 # keep_files: false
 
 # Set the timezone to ensure days appear correctly on the auto-generated schedule
-# This fixed one-off problems with extra days (extra_days_col2) defined in _data/syllabus.yml
+# This fixed one-off problems with extra days defined in _data/syllabus.yml
 timezone: UTC
 future: true
 

@@ -8,39 +8,69 @@ start_date: 2026-08-26
 end_date: 2026-12-18
 
 # Any other days you want to appear on the calendar (e.g. for one-time events
-# like exams or bonus lectures) can be listed here. These appear in the second column.
-extra_days_col2:
+# like exams or bonus lectures) can be listed here. These appear in the third column.
+extra_days_col3:
   - date: 2026-09-08
-    title: "Prerequisite Quiz Window Opens"
+    title: "Prerequisite Quiz"
+    label: exam
+  - date: 2026-09-09
+    title: "Prerequisite Quiz"
     label: exam
   - date: 2026-09-10
-    title: "Prerequisite Quiz Window Closes"
+    title: "Prerequisite Quiz"
     label: exam
   - date: 2026-09-28
-    title: "Quizterm 1 Window Opens"
+    title: "Quizterm 1"
+    label: exam
+  - date: 2026-09-29
+    title: "Quizterm 1"
+    label: exam
+  - date: 2026-09-30
+    title: "Quizterm 1"
     label: exam
   - date: 2026-10-01
-    title: "Quizterm 1 Window Closes"
+    title: "Quizterm 1"
     label: exam
   - date: 2026-11-04
-    title: "Quizterm 2 Window Opens"
+    title: "Quizterm 2"
+    label: exam
+  - date: 2026-11-05
+    title: "Quizterm 2"
     label: exam
   - date: 2026-11-06
-    title: "Quizterm 2 Window Closes"
+    title: "Quizterm 2"
     label: exam
   - date: 2026-12-02
-    title: "Quizterm 3 Window Opens"
+    title: "Quizterm 3"
+    label: exam
+  - date: 2026-12-03
+    title: "Quizterm 3"
     label: exam
   - date: 2026-12-04
-    title: "Quizterm 3 Window Closes"
+    title: "Quizterm 3"
+    label: exam
+  - date: 2026-12-07
+    title: "Quizterm Retakes"
+    label: exam
+  - date: 2026-12-08
+    title: "Quizterm Retakes"
+    label: exam
+  - date: 2026-12-09
+    title: "Quizterm Retakes"
+    label: exam
+  - date: 2026-12-10
+    title: "Quizterm Retakes"
+    label: exam
+  - date: 2026-12-11
+    title: "Quizterm Retakes"
     label: exam
   - date: 2026-12-18
     title: "Final"
     label: exam
 
-# The dates used in extra_links_col3 below must already be included on the calendar 
-# Use this to provide extra links in the third (reading) column
-extra_links_col3:
+# The dates used in extra_links_col4 below must already be included on the calendar
+# Use this to provide extra links in the fourth (assignment) column
+extra_links_col4:
   # - date: 2026-01-21
   #   title: "Prerequisite Coding"
   #   label: lab-released
@@ -117,5 +147,6 @@ starting_week_number: '1'
 
 # Fefine the width of each column in the schedule
 date_width: "15%"
-col2_width: "42.5%"
-col3_width: "42.5%" 
+col2_width: "31%"
+col3_width: "23%"
+col4_width: "31%"

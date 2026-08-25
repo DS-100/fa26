@@ -50,9 +50,9 @@
 
 {%- comment -%}
   - Manually add any extra days we need to appear on the schedule.
-  - Use extra_days_col2 in syllabus.yml to control this.
+    - Use extra_days_col3 in syllabus.yml to control this.
 {%- endcomment -%}
-{%- for item in site.data.syllabus.extra_days_col2 -%}
+{%- for item in site.data.syllabus.extra_days_col3 -%}
   {%- assign extra_day_epoch = item.date | date: '%s' | plus: 0 -%}
   {%- assign valid_dates = valid_dates | push: extra_day_epoch -%}
 {%- endfor -%}
@@ -67,9 +67,9 @@
   {%- assign valid_dates = valid_dates | push: proj_due_epoch -%}
 {%- endfor -%}
 
-{%- for item in site.data.syllabus.extra_links_col3 -%}
-  {%- assign col3_day_epoch = item.date | date: '%s' | plus: 0 -%}
-  {%- assign valid_dates = valid_dates | push: col3_day_epoch -%}
+{%- for item in site.data.syllabus.extra_links_col4 -%}
+    {%- assign col4_day_epoch = item.date | date: '%s' | plus: 0 -%}
+    {%- assign valid_dates = valid_dates | push: col4_day_epoch -%}
 {%- endfor -%}
 
 {%- comment -%}
@@ -118,48 +118,7 @@
           </td>
 
           <td style="width:{{ site.data.syllabus.col2_width }}; vertical-align: top;">
-            {%- comment -%} --- COL2: EXTRA DAYS / EVENTS (lecture, discussion, catch-up, exam prep, exam review) --- {%- endcomment -%}
             {%- assign current_date = day | date: "%Y-%m-%d" -%}
-
-            {%- for extra in site.data.syllabus.extra_days_col2 -%}
-            {%- assign extra_date_string = extra.date | date: "%Y-%m-%d" -%}
-
-            {%- if extra_date_string == current_date -%}
-              {%- unless extra.label == "homework-released" or extra.label == "homework-due" or extra.label == "lab-released" or extra.label == "lab-due" -%}
-                <div class="syllabus-item" style="margin-bottom: 8px;">
-                {%- if extra.label and extra.label != "none" -%}
-                    <strong class="label label-{{ extra.label }}">
-                    {%- if extra.label == "exam-review" -%}
-                      Exam Review
-                    {%- elsif extra.label == "exam-prep" -%}
-                      Exam Prep
-                    {%- elsif extra.label == "catch-up" -%}
-                      {%- assign extra_label_number = extra["label-number"] -%}
-                      Catch-Up{% if extra_label_number %} {{ extra_label_number }}{% endif %}
-                    {%- elsif extra.label == "discussion" -%}
-                      {%- assign extra_label_number = extra["label-number"] -%}
-                      Discussion{% if extra_label_number %} {{ extra_label_number }}{% endif %}
-                    {%- elsif extra.label == "lecture" -%}
-                      {%- assign extra_label_number = extra["label-number"] -%}
-                      Lecture{% if extra_label_number %} {{ extra_label_number }}{% endif %}
-                    {%- else -%}
-                      {%- assign label_parts = extra.label | split: "-" -%}
-                      {{ label_parts[0] | capitalize }}
-                    {%- endif -%}
-                    </strong>
-                {%- endif -%}
-
-                <span>
-                    {%- if extra.link -%}
-                    <a href="{{ extra.link }}">{{ extra.title }}</a>
-                    {%- else -%}
-                    {{ extra.title }}
-                    {%- endif -%}
-                </span>
-                </div>
-              {%- endunless -%}
-            {%- endif -%}
-            {%- endfor -%}
 
             {%- assign day_of_week = day | date: '%w' -%}
             {%- comment -%} --- LECTURE LOGIC (Tues/Thurs) --- {%- endcomment -%}
@@ -397,30 +356,19 @@
             {%- endfor -%}
           </td>
 
-          <td style="width:{{ site.data.syllabus.col3_width }}; vertical-align: top;">
-            {%- comment -%} --- COL3: EXTRA DAYS / EVENTS (exam, homework, lab released/due) --- {%- endcomment -%}
+                    <td style="width:{{ site.data.syllabus.col3_width }}; vertical-align: top;">
+                        {%- comment -%} --- COL3: EXTRA DAYS / EVENTS --- {%- endcomment -%}
 
-            {%- for extra in site.data.syllabus.extra_days_col2 -%}
+                        {%- for extra in site.data.syllabus.extra_days_col3 -%}
             {%- assign extra_date_string = extra.date | date: "%Y-%m-%d" -%}
 
             {%- if extra_date_string == current_date -%}
-              {%- if extra.label == "homework-released" or extra.label == "homework-due" or extra.label == "lab-released" or extra.label == "lab-due" -%}
                 <div class="syllabus-item" style="margin-bottom: 8px;">
                 {%- if extra.label and extra.label != "none" -%}
-                    {%- if extra.label == "homework-released" -%}
-                        <strong class="label label-homework">Homework {{ extra.label-number }} Released</strong>
-                    {%- elsif extra.label == "homework-due" -%}
-                        <strong class="label label-homework-due">Homework {{ extra.label-number }} Due</strong>
-                    {%- elsif extra.label == "lab-released" -%}
-                        <strong class="label label-lab">Lab {{ extra.label-number }} Released</strong>
-                    {%- elsif extra.label == "lab-due" -%}
-                        <strong class="label label-lab-due">Lab {{ extra.label-number }} Due</strong>
-                    {%- else -%}
-                        <strong class="label label-{{ extra.label }}">
-                        {%- assign label_parts = extra.label | split: "-" -%}
-                        {{ label_parts[0] | capitalize }}
-                        </strong>
-                    {%- endif -%}
+                    <strong class="label label-{{ extra.label }}">
+                    {%- assign label_parts = extra.label | split: "-" -%}
+                    {{ label_parts[0] | capitalize }}
+                    </strong>
                 {%- endif -%}
 
                 <span>
@@ -431,9 +379,13 @@
                     {%- endif -%}
                 </span>
                 </div>
-              {%- endif -%}
             {%- endif -%}
             {%- endfor -%}
+
+                    </td>
+
+                    <td style="width:{{ site.data.syllabus.col4_width }}; vertical-align: top;">
+                        {%- comment -%} --- COL4: LABS, HOMEWORK, PROJECTS, AND EXTRA LINKS --- {%- endcomment -%}
 
             {%- comment -%} --- LAB LOGIC --- {%- endcomment -%}
             {%- if site.data.syllabus.lab_days contains day_of_week -%}
@@ -675,7 +627,7 @@
             {%- endfor -%}
 
             {%- comment -%} --- EXTRA LINKS LOGIC --- {%- endcomment -%}
-            {%- for extra in site.data.syllabus.extra_links_col3 -%}
+            {%- for extra in site.data.syllabus.extra_links_col4 -%}
                 {%- assign extra_date = extra.date | date: "%Y-%m-%d" -%}
                 {%- if extra_date == current_date -%}
                     <div class="syllabus-item" style="margin-bottom: 8px;">
