@@ -10,7 +10,7 @@ seo:
 ---
 
 {: .warning }
-⚠️ The content on this page is subject to change while this banner is present.
+⚠️ This website is still under construction! The content on this page is subject to change.
 
 # Data 100: Principles and Techniques of Data Science
 ## UC Berkeley, Fall 2026 
