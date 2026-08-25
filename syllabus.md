@@ -8,7 +8,7 @@ markdown: kramdown
 ---
 
 {: .warning }
-⚠️ The content on this page is subject to change while this banner is present.
+⚠️ This website is still under construction! The content on this page is subject to change.
 
 
 # Syllabus
