@@ -50,10 +50,9 @@ Below is a high-level “typical week in the course” for {{site.semester}}.
 | Mo | Tu | We | Th | Fr |
 | --- | --- | --- | --- | --- | 
 |  | <span style="color: var(--syllabus-lecture)">Live Lecture</span> |  | <span style="color: var(--syllabus-lecture)">Live Lecture</span> |  |
-|  | | <span style="color: var(--syllabus-discussion)">Discussion Section</span> | <span style="color: var(--syllabus-discussion)">Discussion Section</span> |  |
+|  | <span style="color: var(--syllabus-discussion)">Discussion Section</span> | <span style="color: var(--syllabus-discussion)">Discussion Section</span> |  |  |
 | Office Hours | Office Hours | Office Hours | Office Hours | Office Hours |
 |  |  |  | <span style="color: var(--syllabus-deadline)">Homework N released</span> | <strong style="color: var(--syllabus-deadline)">Homework N-1 due</strong> |
-|  | <strong style="color: var(--syllabus-deadline)">Lab N-1 due</strong> | | <span style="color: var(--syllabus-deadline)">Lab N released</span> |  |
 
 
 - **All deadlines are subject to change.**
@@ -68,7 +67,7 @@ There are 2 live **lectures** held on Tuesdays and Thursdays, 3:30pm-5:00pm, hyb
 **Lecture participation**: While synchronous lecture attendance (in-person or through Zoom) is not mandatory, we expect you to "participate" in lecture by answering lecture poll questions in one of two ways: (1) synchronously during the lecture as poll questions are launched; or (2) asynchronously using a link provided after lecture.
 
 - Lecture participation is graded using poll responses on a 0/1 basis.
-  - Synchronous Participation: complete **at least one** participation poll question during the live lecture timeslot (3:30pm-5:00pm, Tuesdays and Thursdays). As long as you submit a response to at least one poll question in this timeframe, you will receive synchronous attendance credit.
+  - Synchronous Participation: complete **at least one** participation poll question during the live lecture timeslot (12:30pm-2:00pm, Tuesdays and Thursdays). As long as you submit a response to at least one poll question in this timeframe, you will receive synchronous attendance credit.
   - Asynchronous Participation: complete **all** participation poll questions from the link provided on the course website within one week of the corresponding lecture.
   - In both cases, participation is graded on completion, not correctness.
 - See the [Policies](#policies) section for lecture participation drops.
@@ -91,8 +90,9 @@ If you are enrolled in Data 100, you have 2 options:
     - All students are automatically granted 3 discussion attendance drops to use for illness, personal emergencies, or for other accommodations. These drops are designed to account for unexpected events. In other words, you should not plan to use them.
 - **"No Discussion" Grading Scheme:** Instead, the 5% discussion weight will be redistributed to the assignments category. If you choose this option you will not be assigned to a discussion section.
 
+<!--
 {: .note }
-> You can switch from the graded discussion option to the non-graded discussion option after the [Pre-Semester Survey](https://forms.gle/pL1Te33T7cddv3wV9){:target="_blank"} is due (January 22, 2026 at 11:59 PM). You cannot switch from graded to non-graded after February 13, 2026. If you are unable to submit the form on time, we will assume you have opted for the non-graded discussion option.
+> You can switch from the graded discussion option to the non-graded discussion option after the [Pre-Semester Survey](https://forms.gle/pL1Te33T7cddv3wV9){:target="_blank"} is due (January 22, 2026 at 11:59 PM). You cannot switch from graded to non-graded after February 13, 2026. If you are unable to submit the form on time, we will assume you have opted for the non-graded discussion option. -->
 
 Students are not permitted to switch between the two grading schemes once finalized. However, if you would like to attend discussion at a later point in the semester, please reach out to us privately via Ed, and we may be able to accommodate you.
 
@@ -149,9 +149,10 @@ Additional information about exams and retakes will be provided once the semeste
 
 The final is scheduled for **Friday 12/18 11:30am-2:30pm**. The [official final exam schedule](https://registrar.berkeley.edu/faculty-staff-resources/aacademic-classroom-scheduling/final-exam-scheduling) will be updated soon to reflect this change.
 
-- **Data 100 does not allow lecture time conflicts or final exam conflicts.** Starting January 16th, Data 100 students are NOT permitted to enroll in another course with a final exam scheduled for Friday 12/18 11:30am-2:30pm. 
-- **Exception**: If you were already waitlisted or enrolled in a course with a final exam scheduled for Friday 12/18 11:30am-2:30pm prior to January 16th, you will be able to take the final exam on Friday 5/15 7-10pm, so long as the course lectures do not overlap with Data 100 lectures (3:30-5pm Tuesday+Thursday). 
-
+- **Data 100 does not allow lecture time conflicts or final exam conflicts.** <!--Starting January 16th, --> Data 100 students are NOT permitted to enroll in another course with a final exam scheduled for Friday 12/18 11:30am-2:30pm. 
+<!--
+ **Exception**: If you were already waitlisted or enrolled in a course with a final exam scheduled for Friday 12/18 11:30am-2:30pm prior to January 16th, you will be able to take the final exam on Friday 5/15 7-10pm, so long as the course lectures do not overlap with Data 100 lectures (12:30-2pm Tuesday+Thursday). 
+-->
 
 ### Graduate Final Project
 
@@ -186,7 +187,7 @@ Course Communication:
 
 | Category | Data 100 | Data 100 (no discussion) | Data 200 | Data 200S | Details |
 | --- | --- | --- | --- | --- | ---  |
-| Homeworks | 25% | 30% | 20% | 35% | No drop |
+| Homeworks | 20% | 30% | 20% | 35% | No drop |
 | Projects | 10% | 10%| 10% | 20% | No drop |
 | Labs | 5% | 5% |  - |  5% | Drop 2 lowest scores |
 | Discussions | 5% | - | - | - | Drop 3 lowest scores |
