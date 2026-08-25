@@ -127,7 +127,8 @@ lectures:
     readings:
       - title: Note 26
         link: 
-  - skip: true # thanksgiving
+  - title: "Holiday (Thanksgiving)"
+    nonumber: true
   - slug: "27"
   - slug: "28"
   - title: "RRR Week"

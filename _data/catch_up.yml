@@ -41,7 +41,8 @@ catch_up:
   - skip: true
   - skip: true
   - skip: true
-  - skip: true
+  - title: "Holiday (Thanksgiving)"
+    nonumber: true
   - skip: true
   - title: "RRR Week" # rrr week
     nonumber: true
