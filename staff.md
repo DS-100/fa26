@@ -24,7 +24,7 @@ nav_order: 6
 {% assign head_teaching_assistants = site.staffers | where: 'role', 'Head Teaching Assistant' %}
 {% assign num_head_teaching_assistants = head_teaching_assistants | size %}
 {% if num_head_teaching_assistants != 0 %}
-## Head Teaching Assistants
+## Course Director
 
 {% for staffer in head_teaching_assistants %}
 {{ staffer }}
