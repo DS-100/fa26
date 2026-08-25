@@ -272,16 +272,17 @@ Working through challenging problems is a key step in learning. If you have an a
 
 {: .important }
 
-**Use of AI-assisted methods and large language models (LLMs), such as ChatGPT, to generate written or code solutions to assignments is prohibited. Usage of past assignment solutions is also prohibited. LLMs are only permitted for productive uses, which we define below.**
+**Use of AI-assisted methods and large language models (LLMs), such as ChatGPT, to generate written or code solutions to assignments is prohibited, unless clearly specified otherwise. Usage of past assignment solutions is also prohibited. LLMs are only permitted for productive uses, which we define below.**
 
-Copying or closely paraphrasing any text directly from a homework or lab problem into a large language model (LLM) is considered cheating in Data 100. Furthermore, engaging in this behavior is detrimental to your learning. You should break problems into steps and ask for help with each step in your own words. If you copy problems directly into ChatGPT, **you're not learning data science**. You're learning how to ask someone else to do sloppy and unreliable data science on your behalf.
+Copying or closely paraphrasing any text directly from a homework or lab problem into a large language model (LLM) is considered cheating in Data 100. Furthermore, engaging in this behavior is detrimental to your learning. You should break problems into steps and ask for help with each step in your own words. If you copy problems directly into ChatGPT, **you're not learning data science**. You're learning how to ask someone else to do sloppy and unreliable data science on your behalf. However, we also know that AI assistants will be a key part of your future, and we want to encourage you to learn how to productively use these technologies as part of the learning process.
 
-However, we also know that AI assistants will be a key part of your future, and we want to encourage you to learn how to productively use these technologies as part of the learning process. Therefore, we encourage you to try using these technologies in appropriate ways. Here are some example prompts that might help you learn:
+Many homework assignments will have a dedicated section where LLM use is permitted. Outside of these sections, we expect you to do your work and thinking by yourself to support your learning. Within these sections, we encourage you to try using these technologies in appropriate ways. Here are some example prompts that might help you learn:
 
 - “What does this error message mean? _\<error message\>_ What could I do to fix it?”
-- “Pandas is confusing me; what does the following pandas expression do? _\<weird expression\>_”
+- “Polars is confusing me; what does the following polars expression do? _\<weird expression\>_”
 - “How would I convert columns into separate rows in my dataframe?”
 - “Can you explain why the regular expression r’[a-z]’ only matches one character? Can you give me a few practice regular expression exercises?”
+- “How do I change the color and thickness of the best fit line in my plot?”
 
 <!-- When a grader identifies a suspected inappropriate use of an LLM, it is documented for later review. Instructors do not address these cases until the end of the semester. In other words, if you inappropriately use an LLM, but the course staff does not contact you about your LLM use shortly after your grade on the assignment is released, you are not "in the clear".  -->
 
