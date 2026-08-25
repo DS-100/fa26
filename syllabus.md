@@ -127,30 +127,30 @@ There are four exams in this course:
 
 {: .important}
 
-> - **Computer-Based Midterm 1** ON **Mon, Mar 9** OR **Tue, Mar 10** OR **Wed, Mar 11** OR **Thu, Mar 12** (You will sign up for a 1-hour slot)
-> - **Computer-Based Midterm 2** ON **Mon, Apr 6** OR **Tue, Apr 7** OR **Wed, Apr 8** OR **Thu, Apr 9** (You will sign up for a 1-hour slot)
-> - **Paper-Based Midterm 3** ON **Thursday, April 30** (1-hour, in lecture or later session)
-> - **Paper-Based Final** ON **Thursday, May 14** STARTING AT **11:30am**
+> - **Computer-Based Quizterm 1** ON **Mon, Sept 28** OR **Tue, Sept 29** OR **Wed, Sept 30** OR **Thu, Oct 1** (You will sign up for a 1-hour slot)
+> - **Computer-Based Quizterm 2** ON **Wed, Nov 4** OR **Thu, Nov 5** OR **Fri, Nov 6** (You will sign up for a 1-hour slot)
+> - **Computer-Based Quizterm 3** ON **Wed, Dec 2** OR **Thu, Dec 3** OR **Fri, Dec 4** (You will sign up for a 1-hour slot)
+> - **Paper-Based Final** ON **Friday, December 18** STARTING AT **11:30am**
 
-#### Midterm Schedule
+#### Quizterm Schedule
 
-All midterm details are subject to change. Everything below is tentative.
+All quizterm details are subject to change. Everything below is tentative.
 
-There are **three** one-hour midterms. We plan to administer the first two midterms in the [computer-based testing facilities (CBTF)](https://acelab.berkeley.edu/cbtf/) on campus. The third midterm will take place on paper on the last day of class.
+There are **three** one-hour quizterms. We plan to administer the quizterms in the [computer-based testing facilities (CBTF)](https://acelab.berkeley.edu/cbtf/) on campus. 
 
-- You will have the option to sign up for a one hour slot to take the first midterm **Monday 3/10, Tuesday 3/11, Wednesday 3/12, or Thursday 3/13** in the CBTF.
-- You will have the option to sign up for a one hour slot to take the second midterm **Monday 4/6, Tuesday 4/7, Wednesday 4/8, or Thursday 4/9** in the CBTF.
-- The third midterm is one hour. It will take place on paper during the final day of class, **Thursday, 4/30**. There will be three different sessions for you to take the third midterm. One of these sessions will be during the regularly scheduled lecture time: 3:30-5pm. The other two sessions will take place after 5pm. The exact times will be announced later in the semester. Students with documented conflicts with the later sessions will be required to take the midterm during regularly scheduled lecture time. All other students will be randomized to one of the three sessions.
-- We will offer midterm retakes during RRR week for partial score recovery. The final exam will not have retakes. 
+- You will have the option to sign up for a one hour slot to take the first quizterm **Monday 9/28, Tuesday 9/29, Wednesday 9/30, or Thursday 10/1** in the CBTF.
+- You will have the option to sign up for a one hour slot to take the second quizterm **Wednesday 11/4, Thursday 11/5, or Friday 11/6** in the CBTF.
+- You will have the option to sign up for a one hour slot to take the third quizterm **Wednesday 12/2, Thursday 12/3, or Friday 12/4** in the CBTF.
+- We will offer quizterm retakes during RRR week for partial score recovery. The final exam will not have retakes. 
 
 Additional information about exams and retakes will be provided once the semester begins, including instructions for students with DSP accommodations.
 
 #### Final Exam Schedule
 
-The final is scheduled for **Thursday 5/14 11:30am-2:30pm**. The [official final exam schedule](https://registrar.berkeley.edu/faculty-staff-resources/aacademic-classroom-scheduling/final-exam-scheduling) will be updated soon to reflect this change.
+The final is scheduled for **Friday 12/18 11:30am-2:30pm**. The [official final exam schedule](https://registrar.berkeley.edu/faculty-staff-resources/aacademic-classroom-scheduling/final-exam-scheduling) will be updated soon to reflect this change.
 
-- **Data 100 does not allow lecture time conflicts or final exam conflicts.** Starting January 16th, Data 100 students are NOT permitted to enroll in another course with a final exam scheduled for Thursday 5/14 11:30am-2:30pm. 
-- **Exception**: If you were already waitlisted or enrolled in a course with a final exam scheduled for Thursday 5/14 11:30am-2:30pm prior to January 16th, you will be able to take the final exam on Friday 5/15 7-10pm, so long as the course lectures do not overlap with Data 100 lectures (3:30-5pm Tuesday+Thursday). 
+- **Data 100 does not allow lecture time conflicts or final exam conflicts.** Starting January 16th, Data 100 students are NOT permitted to enroll in another course with a final exam scheduled for Friday 12/18 11:30am-2:30pm. 
+- **Exception**: If you were already waitlisted or enrolled in a course with a final exam scheduled for Friday 12/18 11:30am-2:30pm prior to January 16th, you will be able to take the final exam on Friday 5/15 7-10pm, so long as the course lectures do not overlap with Data 100 lectures (3:30-5pm Tuesday+Thursday). 
 
 
 ### Graduate Final Project
@@ -191,9 +191,9 @@ Course Communication:
 | Labs | 5% | 5% |  - |  5% | Drop 2 lowest scores |
 | Discussions | 5% | - | - | - | Drop 3 lowest scores |
 | Lecture Participation | 5% | 5% | 5% | 5% | Drop 3 lowest scores |
-| Midterm 1 | 10% | 10% | 10% | - | |
-| Midterm 2 | 10% | 10% | 10% | - | |
-| Midterm 3 | 10% | 10% | 10% | - | |
+| Quizterm 1 | 10% | 10% | 10% | - | |
+| Quizterm 2 | 10% | 10% | 10% | - | |
+| Quizterm 3 | 10% | 10% | 10% | - | |
 | Final | 20% | 20% | 20% | - | |
 | Graduate Final Project| - | - | 15% | 35% | |
 
