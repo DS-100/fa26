@@ -62,7 +62,7 @@ Below is a high-level “typical week in the course” for {{site.semester}}.
 
 ### Lecture
 
-There are 2 live **lectures** held on Tuesdays and Thursdays, 3:30pm-5:00pm, hybrid: in-person in Wheeler 150 and broadcasted live on Zoom. All session recordings, slides, activities, and examples should be uploaded to the course website within 24 hours of the lecture. 
+There are 2 live **lectures** held on Tuesdays and Thursdays, 12:30pm-2:00pm, hybrid: in-person in Wheeler 150 and broadcasted live on Zoom. All session recordings, slides, activities, and examples should be uploaded to the course website within 24 hours of the lecture. 
 
 **Lecture participation**: While synchronous lecture attendance (in-person or through Zoom) is not mandatory, we expect you to "participate" in lecture by answering lecture poll questions in one of two ways: (1) synchronously during the lecture as poll questions are launched; or (2) asynchronously using a link provided after lecture.
 
