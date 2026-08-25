@@ -13,16 +13,17 @@
 # link overrides the default link to the homework page from the collection if 
 # you provided a slug or provides an external link
 homework:
-  - skip: true # hw 1 on syllabus.yml to shift to W release
+  - title: "Prerequisite Math"
+    label-number: 0
   - title: "Food Safety I"
-    label-number: 2A
-    link: https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsp26-student&branch=main&urlpath=lab%2Ftree%2Fsp26-student%2Fhw%2Fhw02A%2Fhw02A.ipynb
+    label-number: 1
+    link:
   - title: "Food Safety II"
-    label-number: 2B
-    link: https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsp26-student&branch=main&urlpath=lab%2Ftree%2Fsp26-student%2Fhw%2Fhw02B%2Fhw02B.ipynb
+    label-number: 2
+    link:
   - title: "NYT Articles"
     label-number: 3
-    link: https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsp26-student&branch=main&urlpath=lab%2Ftree%2Fsp26-student%2Fhw%2Fhw03%2Fhw03.ipynb
+    link:
   - skip: true # "Homework 4: Visualization"
   - title: "Modeling and OLS"
     label-number: 5

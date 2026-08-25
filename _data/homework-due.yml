@@ -3,21 +3,21 @@
 homework-due:
   - skip: true
   - title: "Prerequisite Math and Coding"
-    label-number: 1
-    link: https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsp26-student&branch=main&urlpath=lab%2Ftree%2Fsp26-student%2Fhw%2Fhw01%2Fhw01.ipynb
+    label-number: 0
+    link: 
   - title: "Food Safety I"
-    label-number: 2A
-    link: https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsp26-student&branch=main&urlpath=lab%2Ftree%2Fsp26-student%2Fhw%2Fhw02A%2Fhw02A.ipynb
+    label-number: 1
+    link: 
   - title: "Food Safety II"
-    label-number: 2B
-    link: https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsp26-student&branch=main&urlpath=lab%2Ftree%2Fsp26-student%2Fhw%2Fhw02B%2Fhw02B.ipynb
+    label-number: 2
+    link: 
   - title: "NYT Articles"
     label-number: 3
-    link: https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsp26-student&branch=main&urlpath=lab%2Ftree%2Fsp26-student%2Fhw%2Fhw03%2Fhw03.ipynb
+    link: 
   - skip: true # "Homework 4: Visualization"
   - title: "Modeling and OLS"
     label-number: 5
-    link: https://drive.google.com/file/d/1tQKErPqTbrHjVFNMtl_inAsyl5P_YjYu/view?usp=sharing
+    link: 
   - skip: true # mt1, proj a1 released
   - skip: true # proj a1 due
   - skip: true # spring break
@@ -25,4 +25,4 @@ homework-due:
   - skip: true # mt2
   - title: "SQL"
     label-number: 7 # note hw 6 due monday of this week
-    link: https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsp26-student&branch=main&urlpath=lab%2Ftree%2Fsp26-student%2Fhw%2Fhw07%2Fhw07.ipynb
+    link: 
