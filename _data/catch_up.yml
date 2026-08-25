@@ -45,5 +45,4 @@ catch_up:
   - skip: true
   - title: "RRR Week" # rrr week
     nonumber: true
-  - title: "Finals Week" # finals week
-    nonumber: true
+
