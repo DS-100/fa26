@@ -123,10 +123,11 @@ Please refer to [Grading Scheme](#grading-scheme) for a comprehensive grade brea
 
 ### Exams
 
-There are four exams in this course:
+There are five exams in this course:
 
 {: .important}
 
+> - **Prerequisite Quiz** ON **Tue, Sept 8** OR **Wed, Sept 9** OR **Thu, Sept 10** (You will sign up for a 1-hour slot)
 > - **Computer-Based Quizterm 1** ON **Mon, Sept 28** OR **Tue, Sept 29** OR **Wed, Sept 30** OR **Thu, Oct 1** (You will sign up for a 1-hour slot)
 > - **Computer-Based Quizterm 2** ON **Wed, Nov 4** OR **Thu, Nov 5** OR **Fri, Nov 6** (You will sign up for a 1-hour slot)
 > - **Computer-Based Quizterm 3** ON **Wed, Dec 2** OR **Thu, Dec 3** OR **Fri, Dec 4** (You will sign up for a 1-hour slot)
