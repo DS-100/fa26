@@ -2,7 +2,7 @@
 name: Parshv Patel
 role: Tutor
 email: parshvpatel_0919@berkeley.edu
-photo: 
+photo: Parshv_Patel.png
 pronouns: He/Him/His
 website: https://www.portfolio.parshvpatel.com/
 ---

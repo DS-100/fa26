@@ -2,8 +2,8 @@
 name: Peyton Li
 role: Tutor
 email: peli@berkeley.edu
-photo: 
-pronouns: She/Her/Hers
+photo: Peyton_Li.jpg
+pronouns: He/Him/His
 website: https://peyton.li/
 ---
 Hi! I am Peyton and love running, working out, and going to hackathons! 
