@@ -2,7 +2,7 @@
 layout: page
 title: Graduate Project
 nav_order: 7
-nav_exclude: false
+nav_exclude: true
 description: Specifications for the grad project for Data 200.
 markdown: kramdown
 

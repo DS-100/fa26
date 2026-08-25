@@ -6,6 +6,7 @@ permalink: /
 seo:
   type: Course
   name: Data 100
+
 ---
 
 # Data 100: Principles and Techniques of Data Science
@@ -18,10 +19,10 @@ seo:
 [Office Hours](https://oh.ds100.org/){:target="_blank" .btn .btn-officehours .mr-1}
 [Discussions & Tutoring](https://sections.ds100.org/){:target="_blank" .btn .btn-sections .mr-1}
 
-[Askademia Livestream](https://www.askademia.org/ds100/sp26/livestream){:target="_blank" .btn .btn-lectures .mr-1}
+<!-- [Askademia Livestream](https://www.askademia.org/ds100/sp26/livestream){:target="_blank" .btn .btn-lectures .mr-1}
 [Zoom Livestream](https://berkeley.zoom.us/j/91466186973){:target="_blank" .btn .btn-traditional .mr-1}
 [Askademia Lecture Recordings](https://www.askademia.org/ds100/sp26){:target="_blank" .btn .btn-lectures .mr-1}
-[YouTube Lecture Recordings](https://www.youtube.com/playlist?list=PLQCcNQgUcDfopoa1txbWmAOIrZyx0XoZ7){:target="_blank" .btn .btn-traditional .mr-1}
+[YouTube Lecture Recordings](https://www.youtube.com/playlist?list=PLQCcNQgUcDfopoa1txbWmAOIrZyx0XoZ7){:target="_blank" .btn .btn-traditional .mr-1} -->
 
 
 <div>
