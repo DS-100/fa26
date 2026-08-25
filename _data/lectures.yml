@@ -22,75 +22,75 @@ lectures:
   - slug: "01"
     readings:
       - title: Note 1
-        link: https://ds100.org/course-notes/introduction/
+        link: 
   - slug: "02"
     readings:
       - title: Note 2
-        link: https://ds100.org/course-notes/pandas-1/
+        link: 
   - slug: "03"
     readings:
       - title: Note 3
-        link: https://ds100.org/course-notes/pandas-2/
+        link: 
   - slug: "04"
     readings:
       - title: Note 4
-        link: https://ds100.org/course-notes/pandas-3/
+        link: 
   - slug: "05"
     readings:
       - title: Note 5
-        link: https://ds100.org/course-notes/eda/
+        link: 
   - slug: "06"
     readings:
       - title: Note 6
-        link: https://ds100.org/course-notes/regex/
+        link: 
   - slug: "07"
     readings:
       - title: Note 7
-        link: https://ds100.org/course-notes/visualization-1/
+        link: 
   - slug: "08"
     readings:
       - title: Note 8
-        link: https://ds100.org/course-notes/visualization-2/
+        link: 
   - slug: "09"
     readings:
       - title: Note 9
-        link: https://ds100.org/course-notes/sampling/
+        link: 
   - slug: "10"
     readings:
       - title: Note 10
-        link: https://ds100.org/course-notes/modeling-slr/
+        link: 
   - slug: "11"
     readings:
       - title: Note 11
-        link: https://ds100.org/course-notes/loss-transformations/
+        link: 
   - slug: "12"
     readings:
       - title: Note 12
-        link: https://ds100.org/course-notes/ols/
+        link: 
   - slug: "13"
     readings:
       - title: Note 13
-        link: https://ds100.org/course-notes/gradient-descent/
+        link: 
   - slug: "14"
     readings:
       - title: Note 14
-        link: https://ds100.org/course-notes/feature-engineering/
+        link: 
   - slug: "15"
     readings:
       - title: Note 15
-        link: https://ds100.org/course-notes/cv-reg/
+        link: 
   - slug: "16"
     readings:
       - title: Note 16
-        link: https://ds100.org/course-notes/case-study-hce/
+        link: 
   - slug: "17"
     readings:
       - title: Note 17
-        link: https://ds100.org/course-notes/cv-reg/
+        link: 
   - slug: "18"
     readings:
       - title: Note 18
-        link: https://ds100.org/course-notes/probability-1/ 
+        link: 
   # - title: "Spring Break"
   #   nonumber: true
   # - title: "Spring Break"
@@ -98,35 +98,35 @@ lectures:
   - slug: "19"
     readings:
       - title: Note 19
-        link: https://ds100.org/course-notes/probability-2/
+        link: 
   - slug: "20"
     readings:
       - title: Note 20
-        link: https://ds100.org/course-notes/inference-causality/
+        link: 
   - slug: "21"
     readings:
       - title: Note 21
-        link: https://ds100.org/course-notes/sql-i/
+        link: 
   - slug: "22"
     readings:
       - title: Note 22
-        link: https://ds100.org/course-notes/sql-ii/
+        link: 
   - slug: "23"
     readings:
       - title: Note 23
-        link: https://ds100.org/course-notes/logistic-reg-1/
+        link: 
   - slug: "24"
     readings:
       - title: Note 24
-        link: https://ds100.org/course-notes/logistic-reg-2/
+        link: 
   - slug: "25"
     readings:
       - title: Note 25
-        link: https://ds100.org/course-notes/clustering/
+        link: 
   - slug: "26"
     readings:
       - title: Note 26
-        link: https://ds100.org/course-notes/pca/
+        link: 
   - skip: true # thanksgiving
   - slug: "27"
   - slug: "28"
