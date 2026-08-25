@@ -51,7 +51,7 @@ Below is a high-level “typical week in the course” for {{site.semester}}.
 | --- | --- | --- | --- | --- | 
 |  | <span style="color: var(--syllabus-lecture)">Live Lecture</span> |  | <span style="color: var(--syllabus-lecture)">Live Lecture</span> |  |
 |  | <span style="color: var(--syllabus-discussion)">Discussion Section</span> | <span style="color: var(--syllabus-discussion)">Discussion Section</span> |  |  |
-| Office Hours | Office Hours | Office Hours | Office Hours | Office Hours |
+|  | Office Hours | Office Hours | Office Hours | Office Hours |
 |  |  |  | <span style="color: var(--syllabus-deadline)">Homework N released</span> | <strong style="color: var(--syllabus-deadline)">Homework N-1 due</strong> |
 
 
