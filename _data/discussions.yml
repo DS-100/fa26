@@ -31,7 +31,6 @@ discussions:
   - slug: "11"
   - slug: "12"
   - slug: "13"
+  - skip: true
   - title: "RRR Week"
-    nonumber: true
-  - title: Finals Week
     nonumber: true

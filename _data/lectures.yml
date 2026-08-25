@@ -127,13 +127,14 @@ lectures:
     readings:
       - title: Note 26
         link: https://ds100.org/course-notes/pca/
+  - skip: true # thanksgiving
   - slug: "27"
-  - skip: true # paper midterm 3
-  - skip: true # final review
+  - slug: "28"
+  - title: "RRR Week"
+    nonumber: true
   - title: "RRR Week"
     nonumber: true
   - title: "Finals Week"
     nonumber: true
-  - skip: true # finals week
-  # - title: "Finals Week"
-  #   nonumber: true
+  - title: "Finals Week"
+    nonumber: true

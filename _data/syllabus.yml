@@ -10,6 +10,27 @@ end_date: 2026-12-18
 # Any other days you want to appear on the calendar (e.g. for one-time events
 # like exams or bonus lectures) can be listed here. These appear in the second column.
 extra_days_col2:
+  - date: 2026-09-28
+    title: "Quizterm 1 Window Opens"
+    label: exam
+  - date: 2026-10-01
+    title: "Quizterm 1 Window Closes"
+    label: exam
+  - date: 2026-11-04
+    title: "Quizterm 2 Window Opens"
+    label: exam
+  - date: 2026-11-06
+    title: "Quizterm 2 Window Closes"
+    label: exam
+  - date: 2026-12-02
+    title: "Quizterm 3 Window Opens"
+    label: exam
+  - date: 2026-12-04
+    title: "Quizterm 3 Window Closes"
+    label: exam
+  - date: 2026-12-16
+    title: "Final"
+    label: exam
 
 # The dates used in extra_links_col3 below must already be included on the calendar 
 # Use this to provide extra links in the third (reading) column
