@@ -10,6 +10,12 @@ end_date: 2026-12-18
 # Any other days you want to appear on the calendar (e.g. for one-time events
 # like exams or bonus lectures) can be listed here. These appear in the second column.
 extra_days_col2:
+  - date: 2026-09-08
+    title: "Prerequisite Quiz Window Opens"
+    label: exam
+  - date: 2026-09-10
+    title: "Prerequisite Quiz Window Closes"
+    label: exam
   - date: 2026-09-28
     title: "Quizterm 1 Window Opens"
     label: exam
