@@ -1,5 +1,5 @@
 ---
-name: Nyein Chan Aung
+name: David Aung
 role: Tutor
 email: nyeinchan_aung@berkeley.edu
 photo: Nyein_Chan_Aung.png

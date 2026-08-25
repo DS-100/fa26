@@ -1,5 +1,5 @@
 ---
-name: Ganlu Yang
+name: Lulu Yang
 role: Tutor
 email: luluyang@berkeley.edu
 photo: Ganlu_Yang.jpg
