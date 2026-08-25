@@ -14,15 +14,17 @@ homework-due:
   - title: "NYT Articles"
     label-number: 3
     link: 
-  - skip: true # "Homework 4: Visualization"
-  - title: "Modeling and OLS"
+  - title: "Visualization"
+    label-number: 4
+  - title: "Sampling, Modeling"
     label-number: 5
     link: 
   - skip: true # mt1, proj a1 released
   - skip: true # proj a1 due
   - skip: true # spring break
   - skip: true # proj a2 due
-  - skip: true # mt2
-  - title: "SQL"
-    label-number: 7 # note hw 6 due monday of this week
+  - title: "Probability"
+    label-number: 6 # note hw 6 due monday of this week
+  - title: "TBD"
+    label-number: 7
     link: 

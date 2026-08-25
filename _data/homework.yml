@@ -24,19 +24,20 @@ homework:
   - title: "NYT Articles"
     label-number: 3
     link:
-  - skip: true # "Homework 4: Visualization"
-  - title: "Modeling and OLS"
+  - title: "Visualization"
+    label-number: 4
+  - title: "Sampling, Modeling"
     label-number: 5
-    link: https://drive.google.com/file/d/1tQKErPqTbrHjVFNMtl_inAsyl5P_YjYu/view?usp=sharing
+    link: 
   - skip: true
   - skip: true # proj A1
   - skip: true # proj A2
   - skip: true # spring break
-  - title: "Coding"
+  - title: "Probability"
     label-number: 6
-    link: https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsp26-student&branch=main&urlpath=lab%2Ftree%2Fsp26-student%2Fhw%2Fhw06%2Fhw06.ipynb
-  - title: "SQL"
+    link: 
+  - title: "TBD"
     label-number: 7
-    link: https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsp26-student&branch=main&urlpath=lab%2Ftree%2Fsp26-student%2Fhw%2Fhw07%2Fhw07.ipynb
+    link: 
   - skip: true # proj B1
   - skip: true # proj B2
