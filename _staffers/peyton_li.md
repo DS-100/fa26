@@ -2,7 +2,7 @@
 name: Peyton Li
 role: Tutor
 email: peli@berkeley.edu
-photo: Peyton_Li.jpg
+photo: Peyton_Li.png
 pronouns: He/Him/His
 website: https://peyton.li/
 ---
