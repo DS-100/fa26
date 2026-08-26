@@ -66,12 +66,11 @@ There are 2 live **lectures** held on Tuesdays and Thursdays, 12:30pm-2:00pm, hy
 
 **Lecture participation**: While synchronous lecture attendance (in-person or through Zoom) is not mandatory, we expect you to "participate" in lecture by answering lecture poll questions in one of two ways: (1) synchronously during the lecture as poll questions are launched; or (2) asynchronously using a link provided after lecture.
 
-- Lecture participation is graded using poll responses on a 0/1 basis.
-  - Synchronous Participation: complete **at least one** participation poll question during the live lecture timeslot (12:30pm-2:00pm, Tuesdays and Thursdays). As long as you submit a response to at least one poll question in this timeframe, you will receive synchronous attendance credit.
-  - Asynchronous Participation: complete **all** participation poll questions from the link provided on the course website within one week of the corresponding lecture.
-  - In both cases, participation is graded on completion, not correctness.
-- See the [Policies](#policies) section for lecture participation drops.
+- Lecture participation is graded using poll responses through the Slido platform.
+  - **Synchronous Participation:** complete **at least one** participation poll question during the live lecture timeslot (12:30pm-2:00pm, Tuesdays and Thursdays). As long as you submit a response to at least one poll question in this timeframe, you will receive synchronous attendance credit.
+  - **Asynchronous Participation:** complete **all** participation poll questions from the link provided on the course website **within one week** of the corresponding lecture. **This will be graded on accuracy.**
 
+See the [Policies](#policies) section for lecture participation drops.
 
 ### Discussion
 
@@ -79,10 +78,10 @@ Live **discussion sections** are one hour long, and held once a week on Tuesday 
 
 The lectures, assignments, and exams of this course are structured with the **expectation that all students complete the tasks in the discussion worksheet, either by attending section or on their own time.** The content covered in these sections is designed to solidify understanding of key lecture concepts and prepare students for homework assignments. It is to your benefit to actively participate in all discussions.
 
-Each week, we will provide a mini-lecture covering the topics pertinent to the discussion worksheet on a YouTube playlist [here](https://www.youtube.com/playlist?list=PLQCcNQgUcDfq8wQjfrvDVmaLa2jl2R1WK){:target="_blank"}. Slides for the mini-lectures are linked [here](https://drive.google.com/drive/folders/1U_gwb4Q_NZuivN5oKXn3SC-lUP8EHT9Q?usp=sharing){:target="_blank"}. **We expect you watch the mini-lecture before your discussion section.** Discussion sections will not include any content review, they will solely be focused on problem-solving and Q&A.
+<!--Each week, we will provide a mini-lecture covering the topics pertinent to the discussion worksheet on a YouTube playlist [here](https://www.youtube.com/playlist?list=PLQCcNQgUcDfq8wQjfrvDVmaLa2jl2R1WK){:target="_blank"}. Slides for the mini-lectures are linked [here](https://drive.google.com/drive/folders/1U_gwb4Q_NZuivN5oKXn3SC-lUP8EHT9Q?usp=sharing){:target="_blank"}. **We expect you watch the mini-lecture before your discussion section.** Discussion sections will not include any content review, they will solely be focused on problem-solving and Q&A.-->
 
 {: .important }
-> This semester, we are offering two different grading schemes - graded versus ungraded discussion attendance. After the first week of the course, students will need to choose between the two grading schemes. Students who choose the Graded Discussion are assigned to a discussion slot based on their availability. Discussion attendance will be recorded starting with the second week of class. Please note that discussion attendance is not mandatory for students enrolled in Data 200 and Data 200S.
+> This semester, we are offering two different grading schemes - graded versus ungraded discussion attendance. As part of the Pre-Semester Survey, students will need to choose between the two grading schemes. Students who choose the Graded Discussion are assigned to a discussion slot based on their availability. Discussion attendance will be recorded starting with the second week of class. Please note that discussion attendance is not mandatory for students enrolled in Data 200.
 
 If you are enrolled in Data 100, you have 2 options:
 - **Graded Discussion:** Discussion attendance will be recorded each week and account for 5% of the overall grade. Each weekly discussion will be graded on a 0/1 basis. You will only get credit for attending the discussion section that you are signed up for.
