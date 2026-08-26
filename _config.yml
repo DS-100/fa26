@@ -58,7 +58,7 @@ nav_external_links:
     hide_icon: true
     aria_label: "Data 100 Debugging Guide"
   - title: Course FAQs
-    url: https://ds100.org/faqs/sp26/
+    url: https://ds100.org/faqs/fa26/
     hide_icon: true
 
 aux_links:
