@@ -185,15 +185,13 @@ Course Communication:
 
 | Category | Data 100 | Data 100 (no discussion) | Data 200 | Details |
 | --- | --- | --- | --- | --- | ---  |
-| Homeworks | 20% | 30% | 20% | No drop |
-| Projects | 10% | 10%| 10% | No drop |
-| Labs | 5% | 5% |  - | Drop 2 lowest scores |
+| Assignments | 10% | 10% | 10% | No drop |
 | Discussions | 5% | - | - | Drop 3 lowest scores |
 | Lecture Participation | 5% | 5% | 5% | Drop 3 lowest scores |
-| Quizterm 1 | 10% | 10% | 10% | |
-| Quizterm 2 | 10% | 10% | 10% | |
-| Quizterm 3 | 10% | 10% | 10% | |
-| Final | 20% | 20% | 20% | |
+| Quizterm 1 | 15% | 15% | 10% | |
+| Quizterm 2 | 15% | 15% | 10% | |
+| Quizterm 3 | 15% | 15% | 10% | |
+| Final | 30% | 35% | 30% | |
 | Graduate Final Project| - | - | 15% | |
 
 **To pass this course, students must achieve a total weighted average percentage of at least 50% across the midterms and final.** This means that even if a student excels in other components of the course, a total weighted average below 50% on these exams will result in a failing grade for the course. 
