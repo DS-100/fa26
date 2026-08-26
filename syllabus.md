@@ -85,7 +85,7 @@ The lectures, assignments, and exams of this course are structured with the **ex
 If you are enrolled in Data 100, you have 2 options:
 
 - **Graded Discussion:** Discussion attendance will be recorded each week and account for 5% of the overall grade. Each weekly discussion will be graded on a 0/1 basis. You will only get credit for attending the discussion section that you are signed up for.
-    - You will indicate your availability on the [Pre-Semester Survey](https://forms.gle/vgpeDYAXwHTa4U3z9){:target="_blank"}.
+    - You will indicate your availability on the [Pre-Semester Survey](https://forms.gle/vgpeDYAXwHTa4U3z9){:target="_blank"}. We will use these responses to assign you to a discussion section that works for you.
     - All students are automatically granted 3 discussion attendance drops to use for illness, personal emergencies, or for other accommodations. These drops are designed to account for unexpected events. In other words, you should not plan to use them.
 - **"No Discussion" Grading Scheme:** Instead, the 5% discussion weight will be redistributed to the Final Exam. If you choose this option you will not be assigned to a discussion section.
     - You may still attend our Mega Section (Gateway 1220, Wednesdays @ 5 PM) for extra review and guided practice.
@@ -188,19 +188,22 @@ Course Communication:
 | Assignments | 10% | 10% | 10% | No drop |
 | Discussions | 5% | - | - | Drop 3 lowest scores |
 | Lecture Participation | 5% | 5% | 5% | Drop 3 lowest scores |
+| Prerequisite Quiz | 5% | 5% | 5% | |
 | Quizterm 1 | 15% | 15% | 10% | |
 | Quizterm 2 | 15% | 15% | 10% | |
 | Quizterm 3 | 15% | 15% | 10% | |
 | Final | 30% | 35% | 30% | |
-| Graduate Final Project| - | - | 15% | |
+| Graduate Final Project| - | - | 20% | |
 
-**To pass this course, students must achieve a total weighted average percentage of at least 50% across the midterms and final.** This means that even if a student excels in other components of the course, a total weighted average below 50% on these exams will result in a failing grade for the course. 
+**To pass this course, students must achieve a total weighted average percentage of at least 50% across the midterms and final.** This means that even if a student excels in other components of the course, a total weighted average below 50% on these quizzes/exams will result in a failing grade for the course. 
 
-**Data 200S students must achieve at least 50% in the Graduate Final Project to pass the course.**
+- **The Prerequisite Quiz is not included in this calculation.**
 
-It is your responsibility to know if you are enrolled in Data 100 or Data 200 or Data 200S. *Note that Data 200 is equivalent to Data C200, CS C200A, and Stat C200C, but not Data 200S.*
+<!-- **Data 200S students must achieve at least 50% in the Graduate Final Project to pass the course.** -->
 
-While we do not have homework drops this semester, we will offer slip days for homeworks/projects, as well as an [Additional Accommodations Form](https://docs.google.com/forms/d/e/1FAIpQLSe67DuhYNwPyxrlDOSO-zGv_ViYxQuIj8-GScpfrCGTYfuq3A/viewform?usp=header){:target="_blank"}. See the next sections for more details.
+It is your responsibility to know if you are enrolled in Data 100 or Data 200. *Note that Data 200 is equivalent to Data C200, CS C200A, and Stat C200C.*
+
+While we do not have homework drops this semester, we will offer slip days for homeworks/projects, as well as an [Additional Accommodations Form](https://forms.gle/bFMg8BZgGYBFXAkT6){:target="_blank"}. See the next sections for more details.
 
 
 ### On-Time Submission
@@ -222,9 +225,9 @@ Slip days are automatically applied based on the additional hours you take to su
 
 We recognize that our students come from varied backgrounds and have widely-varying experiences. If you require any additional accommodations any time in the semester, please do not hesitate to let us know. The sooner we are made aware, the more options we have available for us to help you.
 
-The **[Additional Accommodations Form](https://docs.google.com/forms/d/e/1FAIpQLSe67DuhYNwPyxrlDOSO-zGv_ViYxQuIj8-GScpfrCGTYfuq3A/viewform?usp=header){:target="_blank"}** is for any circumstances that cannot be resolved via slip days and drops. Within two business days of filling out the form, a member of course staff will reach out to you and provide a space for conversation, as well as to arrange course/grading accommodations as necessary. For more information, please email [data100.support@berkeley.edu](mailto:data100.support@berkeley.edu). 
+The **[Additional Accommodations Form](https://forms.gle/bFMg8BZgGYBFXAkT6){:target="_blank"}** is for any circumstances that cannot be resolved via slip days and drops. Within two business days of filling out the form, a member of course staff will reach out to you and provide a space for conversation, as well as to arrange course/grading accommodations as necessary. For more information, please email [data100.support@berkeley.edu](mailto:data100.support@berkeley.edu). 
 
-We recognize that at times, it can be difficult to manage your course performance - particularly at Berkeley’s high standards. Sometimes emergencies just come up (personal health emergency, family emergency, etc.). The [Additional Accommodations Form](https://docs.google.com/forms/d/e/1FAIpQLSe67DuhYNwPyxrlDOSO-zGv_ViYxQuIj8-GScpfrCGTYfuq3A/viewform?usp=header){:target="_blank"} is meant to lower the barrier to reaching out to us, as well as build your independence in managing your academic career long-term. So please do not hesitate to reach out.
+We recognize that at times, it can be difficult to manage your course performance - particularly at Berkeley’s high standards. Sometimes emergencies just come up (personal health emergency, family emergency, etc.). The [Additional Accommodations Form](https://forms.gle/bFMg8BZgGYBFXAkT6){:target="_blank"} is meant to lower the barrier to reaching out to us, as well as build your independence in managing your academic career long-term. So please do not hesitate to reach out.
 
 Note that you **cannot** use the Additional Accommodations Form if you encounter a logistical oversight, such as DataHub/autograder tests not passing, submitting only one portion of the homework, forgetting to save your notebook before exporting, submitting to the wrong assignment portal, or not properly tagging pages on the grading portal. It is the students’ responsibility to identify and resolve these issues well in advance of the on-time deadline. 
 We will not grant accommodations for these cases; instead, please use slip days to cushion these submission errors.
@@ -236,14 +239,14 @@ Finally, simply submitting a request does not guarantee you will receive an exte
 
 {: .important }
 
-If you are registered with the Disabled Students’ Program (DSP) you can expect to receive an email from us during the first week of classes. Otherwise, email [data100.support@berkeley.edu](mailto:data100.support@berkeley.edu). DSP students who receive approved extension accommodations will have an automatic 2-day extension on labs, homeworks, and projects. Please note that any extension, plus the slip days combined, cannot exceed **7 days**. Beyond 7 days, you are required to meet with a TA. DSP students can use the **[Additional Accommodations Form](https://docs.google.com/forms/d/e/1FAIpQLSe67DuhYNwPyxrlDOSO-zGv_ViYxQuIj8-GScpfrCGTYfuq3A/viewform?usp=header){:target="_blank"}** to request extension accommodations beyond the provided 2-days.
+If you are registered with the Disabled Students’ Program (DSP) you can expect to receive an email from us during the first week of classes. Otherwise, email [data100.support@berkeley.edu](mailto:data100.support@berkeley.edu). DSP students who receive approved extension accommodations will have an automatic 2-day extension on homeworks and projects. Please note that any extension, plus the slip days combined, cannot exceed **7 days**. Beyond 7 days, you are required to meet with a TA. DSP students can use the **[Additional Accommodations Form](https://forms.gle/bFMg8BZgGYBFXAkT6){:target="_blank"}** to request extension accommodations beyond the provided 2-days.
 
 You are responsible for reasonable communication with course staff. If you make a request close to the deadline, we can not guarantee that you will receive a response before the deadline. Additionally, simply submitting a request does not guarantee you will receive an extension. **Even if your work is incomplete, please submit before the deadline so you can receive work for the work you did complete.**
 
 
 ### Regrade Requests
 
-Students will be allowed to submit regrade requests for the autograded and written portions of assignments in cases in which the rubric was incorrectly applied or the autograder scored their submission incorrectly. Regrades for the written portions of assignments will be handled through the grading portal, and autograder regrades via a [Google Form](https://forms.gle/br8ShTbU7HWw1ooQ9){:target="_blank"}. The deadline for regrade requests (autograded and written) is one week after the grades are released for the corresponding assignment.
+For some assignments, students will be allowed to submit regrade requests for cases in which the rubric was incorrectly applied or the autograder scored their submission incorrectly. Regrades for the written portions of assignments will be handled through the grading portal, and autograder regrades via a [Google Form](https://forms.gle/FGBq2XhQeknMUQFQ8){:target="_blank"}. The deadline for regrade requests (autograded and written) is one week after the grades are released for the corresponding assignment.
 
 **Always check that the autograder executes correctly!** The grading portal will show you the output of the public tests, and you should see the same results as you did on DataHub. If you see a discrepancy, ensure that you have exported the assignment correctly and, if there is still an issue, post on Ed _as soon as possible_.
 
