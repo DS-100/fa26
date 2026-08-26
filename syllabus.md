@@ -131,6 +131,8 @@ There are five quizzes/exams in this course:
 > - **Computer-Based Quizterm 3** FROM **Wed, Dec 2** TO **Fri, Dec 4**
 > - **Paper-Based Final** ON **Friday, December 18** STARTING AT **11:30 AM**
 
+A Quizterm is somewhere in between a quiz and a midterm.
+
 - The Prerequisite Quiz and Quizterms 1-3 will be taken in a 1-hour slot of your choice during the above windows.
 - We will offer retake attempts for Quizterms 1-3 during RRR week. 
 
@@ -146,6 +148,10 @@ There are **three** one-hour quizterms. We plan to administer the quizterms in t
 - You will have the option to sign up for a one hour slot to take Quizterm 2 **Wednesday 11/4, Thursday 11/5, or Friday 11/6** in the CBTF.
 - You will have the option to sign up for a one hour slot to take Quizterm 3 **Wednesday 12/2, Thursday 12/3, or Friday 12/4** in the CBTF.
 - We will offer quizterm retakes during RRR week for partial score recovery. The final exam will not have retakes. 
+
+#### Computer-Based Testing Facility (CBTF)
+
+Exams in this course will be administered in the Computer-Based Testing Facility (CBTF). Students are responsible for reading and following all CBTF [policies and procedures](https://rtl.berkeley.edu/services-programs/computer-based-testing-facility-cbtf/students/cbtf-policies-and-procedures), including instantiating a PrairieTest account, submitting any DSP accommodations in advance, and reserving and attending exam sessions on time. During CBTF exams, students may use only the materials and resources expressly authorized by the course; unauthorized devices, materials, or resources are prohibited. CBTF proctors monitor all sessions and will document and report any suspected academic misconduct to the course staff. Suspected violations will be handled in accordance with the [Berkeley Honor Code](https://teaching.berkeley.edu/berkeley-honor-code) and the UC Berkeley Code of Student Conduct, and may result in penalties up to and including a failing grade on the exam or in the course and referral to the [Center for Student Conduct](https://sa.berkeley.edu/conduct).
 
 #### Final Exam Schedule
 
