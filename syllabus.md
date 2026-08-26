@@ -57,12 +57,11 @@ Below is a high-level “typical week in the course” for {{site.semester}}.
 
 - **All deadlines are subject to change.**
 - The Office Hours schedule is on the [Calendar page](../calendar_dynamic).
-- Lectures, discussions, assignments, projects, and exams are scheduled on the [Home page](..).
-
+- Lectures, discussions, assignments, and exams are scheduled on the [Home page](..).
 
 ### Lecture
 
-There are 2 live **lectures** held on Tuesdays and Thursdays, 12:30pm-2:00pm, hybrid: in-person in Wheeler 150 and broadcasted live on Zoom. All session recordings, slides, activities, and examples should be uploaded to the course website within 24 hours of the lecture. 
+There are 2 live **lectures** held on Tuesdays and Thursdays, 12:30 PM - 2:00 PM; hybrid: in-person in Wheeler 150 and broadcasted live on Zoom. All session recordings, slides, activities, and examples should be uploaded to the course website within 24 hours of the lecture. 
 
 **Lecture participation**: While synchronous lecture attendance (in-person or through Zoom) is not mandatory, we expect you to "participate" in lecture by answering lecture poll questions in one of two ways: (1) synchronously during the lecture as poll questions are launched; or (2) asynchronously using a link provided after lecture.
 
@@ -84,19 +83,19 @@ The lectures, assignments, and exams of this course are structured with the **ex
 > This semester, we are offering two different grading schemes - graded versus ungraded discussion attendance. As part of the Pre-Semester Survey, students will need to choose between the two grading schemes. Students who choose the Graded Discussion are assigned to a discussion slot based on their availability. Discussion attendance will be recorded starting with the second week of class. Please note that discussion attendance is not mandatory for students enrolled in Data 200.
 
 If you are enrolled in Data 100, you have 2 options:
+
 - **Graded Discussion:** Discussion attendance will be recorded each week and account for 5% of the overall grade. Each weekly discussion will be graded on a 0/1 basis. You will only get credit for attending the discussion section that you are signed up for.
-    - Online sections, if offered, are reserved for students with specific needs (e.g., DSP, Data 200S, etc.); these can be requested through the [Pre-Semester Survey](https://forms.gle/pL1Te33T7cddv3wV9){:target="_blank"}.
+    - You will indicate your availability on the [Pre-Semester Survey](https://forms.gle/vgpeDYAXwHTa4U3z9){:target="_blank"}.
     - All students are automatically granted 3 discussion attendance drops to use for illness, personal emergencies, or for other accommodations. These drops are designed to account for unexpected events. In other words, you should not plan to use them.
-- **"No Discussion" Grading Scheme:** Instead, the 5% discussion weight will be redistributed to the assignments category. If you choose this option you will not be assigned to a discussion section.
+- **"No Discussion" Grading Scheme:** Instead, the 5% discussion weight will be redistributed to the Final Exam. If you choose this option you will not be assigned to a discussion section.
+    - You may still attend our Mega Section (Gateway 1220, Wednesdays @ 5 PM) for extra review and guided practice.
 
-<!--
 {: .note }
-> You can switch from the graded discussion option to the non-graded discussion option after the [Pre-Semester Survey](https://forms.gle/pL1Te33T7cddv3wV9){:target="_blank"} is due (January 22, 2026 at 11:59 PM). You cannot switch from graded to non-graded after February 13, 2026. If you are unable to submit the form on time, we will assume you have opted for the non-graded discussion option. -->
+> You can switch from the graded discussion option to the non-graded discussion option after the [Pre-Semester Survey](https://forms.gle/vgpeDYAXwHTa4U3z9){:target="_blank"} is due (August 27th, 2026 at 11:59 PM). You can swap or drop discussion sections anytime before September 18th, 2026. If you drop your discussion section without adding a new one, you'll be automatically placed into the non-graded discussion scheme.
 
-Students are not permitted to switch between the two grading schemes once finalized. However, if you would like to attend discussion at a later point in the semester, please reach out to us privately via Ed, and we may be able to accommodate you.
+Students are not permitted to switch between the two grading schemes once finalized on September 18th. However, if you would like to attend discussion at a later point in the semester, our Mega discussion is available.
 
 Please refer to [Grading Scheme](#grading-scheme) for a comprehensive grade breakdown.
-
 
 ### Homework and Projects
 
@@ -105,7 +104,7 @@ Please refer to [Grading Scheme](#grading-scheme) for a comprehensive grade brea
 - All homeworks and projects must be submitted by their posted deadlines. There may be separate coding and written portals for the same assignment; please check that you are submitting the right part.
 - Homeworks and projects have both public (visible) and hidden autograder tests. The public tests are mainly sanity checks. For example, a sanity check might verify that the answer you entered is a number as expected, and not a word. The hidden tests generally check for correctness, and are invisible to students while they are completing the assignment.
 - The primary form of support students will have for homeworks and projects are **office hours** and **Ed**.
-- Homeworks and projects must be completed individually, without the usage of any unauthorized resources (e.g., CourseHero). While large language models (LLMs) are permitted for use on homeworks and projects, students are only allowed to use LLMs in the specific manner outlined in the [Collaboration Policy](#collaboration-policy-and-academic-honesty). Inappropriate use of LLMs is considered cheating, and will be addressed as such.
+- Homeworks and projects must be completed individually, without the usage of any unauthorized resources (e.g., CourseHero). While large language models (LLMs) are sometimes permitted for use on homeworks and projects, students are only allowed to use LLMs in the specific manner outlined in the [Collaboration Policy](#collaboration-policy-and-academic-honesty). **Inappropriate use of LLMs is considered cheating, and will be addressed as such.**
 
 <!--
 ### Lab
@@ -120,84 +119,82 @@ Please refer to [Grading Scheme](#grading-scheme) for a comprehensive grade brea
 - Your two lowest lab scores will be dropped.
 -->
 
-
 ### Exams
 
-There are five exams in this course:
+There are five quizzes/exams in this course:
 
 {: .important}
 
-> - **Prerequisite Quiz** ON **Tue, Sept 8** OR **Wed, Sept 9** OR **Thu, Sept 10**
-> - **Computer-Based Quizterm 1** ON **Mon, Sept 28** OR **Tue, Sept 29** OR **Wed, Sept 30** OR **Thu, Oct 1** (You will sign up for a 1-hour slot)
-> - **Computer-Based Quizterm 2** ON **Wed, Nov 4** OR **Thu, Nov 5** OR **Fri, Nov 6** (You will sign up for a 1-hour slot)
-> - **Computer-Based Quizterm 3** ON **Wed, Dec 2** OR **Thu, Dec 3** OR **Fri, Dec 4** (You will sign up for a 1-hour slot)
-> - **Paper-Based Final** ON **Friday, December 18** STARTING AT **11:30am**
+> - **Computer-Based Prerequisite Quiz** FROM **Tue, Sept 8** TO **Thu, Sept 10**
+> - **Computer-Based Quizterm 1** FROM **Mon, Sept 28** TO **Thu, Oct 1**
+> - **Computer-Based Quizterm 2** FROM **Wed, Nov 4** TO **Fri, Nov 6**
+> - **Computer-Based Quizterm 3** FROM **Wed, Dec 2** TO **Fri, Dec 4**
+> - **Paper-Based Final** ON **Friday, December 18** STARTING AT **11:30 AM**
+
+- The Prerequisite Quiz and Quizterms 1-3 will be taken in a 1-hour slot of your choice during the above windows.
+- We will offer retake attempts for Quizterms 1-3 during RRR week. 
+
+Additional information about exams and retakes will be provided once the semester begins, including instructions for students with DSP accommodations.
 
 #### Quizterm Schedule
 
 All quizterm details are subject to change. Everything below is tentative.
 
-There are **three** one-hour quizterms. We plan to administer the quizterms in the [computer-based testing facilities (CBTF)](https://acelab.berkeley.edu/cbtf/) on campus. 
+There are **three** one-hour quizterms. We plan to administer the quizterms in the [Computer-Based Testing Facilities (CBTF)](https://acelab.berkeley.edu/cbtf/) on campus. 
 
-- You will have the option to sign up for a one hour slot to take the first quizterm **Monday 9/28, Tuesday 9/29, Wednesday 9/30, or Thursday 10/1** in the CBTF.
-- You will have the option to sign up for a one hour slot to take the second quizterm **Wednesday 11/4, Thursday 11/5, or Friday 11/6** in the CBTF.
-- You will have the option to sign up for a one hour slot to take the third quizterm **Wednesday 12/2, Thursday 12/3, or Friday 12/4** in the CBTF.
+- You will have the option to sign up for a one hour slot to take Quizterm 1 **Monday 9/28, Tuesday 9/29, Wednesday 9/30, or Thursday 10/1** in the CBTF.
+- You will have the option to sign up for a one hour slot to take Quizterm 2 **Wednesday 11/4, Thursday 11/5, or Friday 11/6** in the CBTF.
+- You will have the option to sign up for a one hour slot to take Quizterm 3 **Wednesday 12/2, Thursday 12/3, or Friday 12/4** in the CBTF.
 - We will offer quizterm retakes during RRR week for partial score recovery. The final exam will not have retakes. 
-
-Additional information about exams and retakes will be provided once the semester begins, including instructions for students with DSP accommodations.
 
 #### Final Exam Schedule
 
-The final is scheduled for **Friday 12/18 11:30am-2:30pm**. The [official final exam schedule](https://registrar.berkeley.edu/faculty-staff-resources/aacademic-classroom-scheduling/final-exam-scheduling) will be updated soon to reflect this change.
+The final is scheduled for **Friday 12/18 11:30 AM - 2:30 PM**.
 
-- **Data 100 does not allow lecture time conflicts or final exam conflicts.** <!--Starting January 16th, --> Data 100 students are NOT permitted to enroll in another course with a final exam scheduled for Friday 12/18 11:30am-2:30pm. 
-<!--
- **Exception**: If you were already waitlisted or enrolled in a course with a final exam scheduled for Friday 12/18 11:30am-2:30pm prior to January 16th, you will be able to take the final exam on Friday 5/15 7-10pm, so long as the course lectures do not overlap with Data 100 lectures (12:30-2pm Tuesday+Thursday). 
--->
+- **Data 100 does not allow lecture time conflicts or final exam conflicts.**
+    - **Exception**: If you were already waitlisted or enrolled in a course with a final exam scheduled for Friday, December 18th 11:30 AM - 2:30 PM prior to August 27th, please contact us. 
 
 ### Graduate Final Project
 
-All students enrolled in the graduate version of the course (Data 200 or Data 200S) will be graded according to the Graduate grading scheme, which includes a team-based **Graduate Final Project** distributed in the second half of the semester. More details to come.
-
+All students enrolled in the graduate version of the course (Data 200) will be graded according to the Graduate grading scheme, which includes a team-based **Graduate Final Project** distributed in the second half of the semester. More details to come closer to its release.
 
 ## Office Hours and Communication
 
 We want to enable everyone to succeed in this course. We encourage you to discuss course content with your friends, classmates, and course staff throughout the semester, particularly during **office hours**.
 
-- All office hours will be updated on the Calendar.
+- All office hours will be updated on the [Calendar](../calendar_dynamic).
 - In-person course staff office hours will be held in the Gateway Building. Check the calendar to see which room our staff is in.
 - In general, students can come to staff office hours for any questions on course assignments or material.
 - Instructor office hours are generally reserved for conceptual questions, course review, course logistics, research opportunities, and career planning.
 
 Course Communication:
 
-- **EdStem**, or **Ed** for short, is our course forum this semester. **_All course announcements will be through Ed._** We are not using bCourses this semester. Please check out [Ed](https://edstem.org/us/courses/93833){:target="_blank"} or the [FAQ](https://ds100.org/faqs/sp26/){:target="_blank"} page first before emailing course staff directly.
+- **EdStem**, or **Ed** for short, is our course forum this semester. **_All course announcements will be through Ed._** We are not using bCourses this semester. Please check out [Ed](https://edstem.org/us/courses/102680/discussion){:target="_blank"} or the [FAQ](https://ds100.org/faqs/fa26/){:target="_blank"} page first before emailing course staff directly.
 
     - Ed is a formal, academic space. We must demonstrate appropriate respect, consideration, and compassion for others. Please be friendly and thoughtful; our community draws from a wide spectrum of valuable experiences. For further reading, please reference [Berkeley’s Principles of Community](https://diversity.berkeley.edu/principles-community){:target="_blank"} and the [Berkeley Campus Code of Student Conduct](https://conduct.berkeley.edu/code-of-conduct/){:target="_blank"}.
     - Ed is your primary platform for asking questions about the class. It is monitored daily by course staff, so questions posted to Ed will likely receive the fastest response.
 
-- For sensitive questions: our course staff email is [{{ site.course_email }}](mailto:{{ site.course_email }}). This email is monitored by the instructors, the head TAs, and a few lead TAs.
-- For course accomodations/DSP: student accommodation requests will be handled via the [Additional Accommodations Form](https://docs.google.com/forms/d/e/1FAIpQLSe67DuhYNwPyxrlDOSO-zGv_ViYxQuIj8-GScpfrCGTYfuq3A/viewform?usp=header){:target="_blank"}. Our staff email for student support and DSP accommodations is [data100.support@berkeley.edu]((mailto:{{ site.comms_email }})).
-    - Please only contact the course instructors directly for matters that require strict privacy and their personal attention.
+- For sensitive questions: our course staff email is [{{ site.course_email }}](mailto:{{ site.course_email }}). This email is monitored by the instructors and the course director.
+- For course accomodations/DSP: student accommodation requests will be handled via the [Additional Accommodations Form](https://forms.gle/bFMg8BZgGYBFXAkT6){:target="_blank"}. Our staff email for student support and DSP accommodations is [data100.support@berkeley.edu]((mailto:{{ site.comms_email }})).
 
+**Please only contact the course instructors directly for matters that require strict privacy and their personal attention.**
 
 ## Policies
 
-
 ### Grading Scheme
 
-| Category | Data 100 | Data 100 (no discussion) | Data 200 | Data 200S | Details |
+| Category | Data 100 | Data 100 (no discussion) | Data 200 | Details |
 | --- | --- | --- | --- | --- | ---  |
-| Homeworks | 20% | 30% | 20% | 35% | No drop |
-| Projects | 10% | 10%| 10% | 20% | No drop |
-| Labs | 5% | 5% |  - |  5% | Drop 2 lowest scores |
-| Discussions | 5% | - | - | - | Drop 3 lowest scores |
-| Lecture Participation | 5% | 5% | 5% | 5% | Drop 3 lowest scores |
-| Quizterm 1 | 10% | 10% | 10% | - | |
-| Quizterm 2 | 10% | 10% | 10% | - | |
-| Quizterm 3 | 10% | 10% | 10% | - | |
-| Final | 20% | 20% | 20% | - | |
-| Graduate Final Project| - | - | 15% | 35% | |
+| Homeworks | 20% | 30% | 20% | No drop |
+| Projects | 10% | 10%| 10% | No drop |
+| Labs | 5% | 5% |  - | Drop 2 lowest scores |
+| Discussions | 5% | - | - | Drop 3 lowest scores |
+| Lecture Participation | 5% | 5% | 5% | Drop 3 lowest scores |
+| Quizterm 1 | 10% | 10% | 10% | |
+| Quizterm 2 | 10% | 10% | 10% | |
+| Quizterm 3 | 10% | 10% | 10% | |
+| Final | 20% | 20% | 20% | |
+| Graduate Final Project| - | - | 15% | |
 
 **To pass this course, students must achieve a total weighted average percentage of at least 50% across the midterms and final.** This means that even if a student excels in other components of the course, a total weighted average below 50% on these exams will result in a failing grade for the course. 
 
