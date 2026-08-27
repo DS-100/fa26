@@ -20,9 +20,9 @@
 
 lectures:
   - slug: "01"
-    readings:
-      - title: Note 1
-        link: 
+    # readings:
+    #   - title: Note 1
+    #     link: 
   - slug: "02"
     readings:
       - title: Note 2
