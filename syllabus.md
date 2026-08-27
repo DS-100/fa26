@@ -129,7 +129,7 @@ There are five quizzes/exams in this course:
 > - **Computer-Based Quizterm 1** FROM **Mon, Sept 28** TO **Thu, Oct 1**
 > - **Computer-Based Quizterm 2** FROM **Wed, Nov 4** TO **Fri, Nov 6**
 > - **Computer-Based Quizterm 3** FROM **Wed, Dec 2** TO **Fri, Dec 4**
-> - **Paper-Based Final** ON **Friday, December 18** STARTING AT **11:30 AM**
+> - **Paper-Based Final** ON **Wednesday, December 16** STARTING AT **11:30 AM**
 
 A Quizterm is somewhere in between a quiz and a midterm.
 
@@ -138,7 +138,7 @@ A Quizterm is somewhere in between a quiz and a midterm.
 
 Additional information about exams and retakes will be provided once the semester begins, including instructions for students with DSP accommodations.
 
-#### Quizterm Schedule
+#### Quizterm (previously Midterm) Schedule
 
 All quizterm details are subject to change. Everything below is tentative.
 
@@ -155,10 +155,10 @@ Exams in this course will be administered in the Computer-Based Testing Facility
 
 #### Final Exam Schedule
 
-The final is scheduled for **Friday 12/18 11:30 AM - 2:30 PM**.
+The final is scheduled for **Wednesday 12/16 11:30 AM - 2:30 PM**.
 
 - **Data 100 does not allow lecture time conflicts or final exam conflicts.**
-    - **Exception**: If you were already waitlisted or enrolled in a course with a final exam scheduled for Friday, December 18th 11:30 AM - 2:30 PM prior to August 27th, please contact us. 
+    - **Exception**: If you were already waitlisted or enrolled in a course with a final exam scheduled for Wednesday, December 16th 11:30 AM - 2:30 PM prior to August 27th, please contact us. 
 
 ### Graduate Final Project
 
