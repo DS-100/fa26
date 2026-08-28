@@ -2,9 +2,9 @@
 # link: optional; hyperlinks the title to the assignment URL (same as released)
 homework-due:
   - skip: true
-  - title: "Prerequisite Math and Coding"
+  - title: "Prerequisite Math"
     label-number: 0
-    link: 
+    link: https://drive.google.com/file/d/1K-voW-utQJDzA2TPixJiHK5N33pBpQyx/view?usp=sharing
   - title: "Food Safety I"
     label-number: 1
     link: 

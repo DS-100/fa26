@@ -51,6 +51,17 @@ extra_links_col4:
     title: "Prerequisite Math"
     label: homework-released
     label-number: 0
+    link: https://drive.google.com/file/d/1K-voW-utQJDzA2TPixJiHK5N33pBpQyx/view?usp=sharing
+  - date: 2026-08-28
+    title: "Prerequisite Coding"
+    label: homework-released
+    label-number: 0
+    link: https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Ffa26-student&branch=main&urlpath=lab%2Ftree%2Ffa26-student%2Fhw%2Fhw00%2Fhw00.ipynb
+  - date: 2026-09-04
+    title: "Prerequisite Coding"
+    label: homework-due
+    label-number: 0
+    link: https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Ffa26-student&branch=main&urlpath=lab%2Ftree%2Ffa26-student%2Fhw%2Fhw00%2Fhw00.ipynb
   # - date: 2026-01-21
   #   title: "Prerequisite Coding"
   #   label: lab-released
