@@ -47,6 +47,10 @@ extra_days_col3:
 # The dates used in extra_links_col4 below must already be included on the calendar
 # Use this to provide extra links in the fourth (assignment) column
 extra_links_col4:
+  - date: 2026-08-28
+    title: "Prerequisite Math"
+    label: homework-released
+    label-number: 0
   # - date: 2026-01-21
   #   title: "Prerequisite Coding"
   #   label: lab-released

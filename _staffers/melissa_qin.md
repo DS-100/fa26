@@ -1,7 +1,7 @@
 ---
 name: Melissa Qin
 role: Tutor
-email: melissa-qin@berkeley.edu
+email: melissa_qin@berkeley.edu
 photo: Melissa_Qin.png
 pronouns: She/Her/Hers
 ---

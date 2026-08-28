@@ -17,10 +17,16 @@ seo:
 {: .mb-2 .fs-6 .text-grey-dk-000 style="margin-top: 0;"  }
 
 [DataHub](https://data100.datahub.berkeley.edu/){:target="_blank" .btn .btn-datahub .mr-1}
-[Pensive](https://www.pensive.com/){:target="_blank" .btn .btn-pensive .mr-1}
+[Gradescope](https://www.gradescope.com/){:target="_blank" .btn .btn-gradescope .mr-1}
 [EdStem](https://edstem.org/us/){:target="_blank" .btn .btn-ed .mr-1}
 [Office Hours](https://oh.ds100.org/){:target="_blank" .btn .btn-officehours .mr-1}
 [Discussions & Tutoring](https://sections.ds100.org/){:target="_blank" .btn .btn-sections .mr-1}
+
+<!-- [Askademia Lecture Recordings](https://www.askademia.org/ds100/fa26){:target="_blank" .btn .btn-lectures .mr-1} -->
+[YouTube Lecture Recordings](https://www.youtube.com/playlist?list=PLX-t99G7fm2g){:target="_blank" .btn .btn-traditional .mr-1}
+[PrairieLearn](https://us.prairielearn.com){:target="_blank" .btn .btn-bcourses .mr-1}
+[PrairieTest](https://us.prairietest.com){:target="_blank" .btn .btn-bcourses .mr-1}
+
 
 <!-- [Askademia Livestream](https://www.askademia.org/ds100/sp26/livestream){:target="_blank" .btn .btn-lectures .mr-1}
 [Zoom Livestream](https://berkeley.zoom.us/j/91466186973){:target="_blank" .btn .btn-traditional .mr-1}

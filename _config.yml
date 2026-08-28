@@ -74,8 +74,8 @@ aux_links:
   #   - 'https://ds100.org/course-notes/'
   Ed:
     - 'https://edstem.org'
-  Pensive:
-    - 'https://www.pensive.com/'
+  Gradescope:
+    - 'https://www.gradescope.com/'
 
 # TODO(template): These need to be documented
 # TODO(semester): You may want to review these...

@@ -13,8 +13,9 @@
 # link overrides the default link to the homework page from the collection if 
 # you provided a slug or provides an external link
 homework:
-  - title: "Prerequisite Math"
-    label-number: 0
+#  - title: "Prerequisite Math"
+#    label-number: 0
+  - skip: true
   - title: "Food Safety I"
     label-number: 1
     link:
