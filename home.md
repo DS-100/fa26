@@ -22,6 +22,7 @@ seo:
 [Office Hours](https://oh.ds100.org/){:target="_blank" .btn .btn-officehours .mr-1}
 [Discussions & Tutoring](https://sections.ds100.org/){:target="_blank" .btn .btn-sections .mr-1}
 
+[Zoom Livestream](https://berkeley.zoom.us/j/99532546563?pwd=wwAsCRX4DnJCCxyrbGEFmjkQGxasBo.1){:target="_blank" .btn .btn-traditional .mr-1}
 [Askademia Lecture Recordings](https://www.askademia.org/compscic100/fa26){:target="_blank" .btn .btn-lectures .mr-1}
 [YouTube Lecture Recordings](https://www.youtube.com/playlist?list=PLX-t99G7fm2g){:target="_blank" .btn .btn-traditional .mr-1}
 [PrairieLearn](https://us.prairielearn.com){:target="_blank" .btn .btn-bcourses .mr-1}
