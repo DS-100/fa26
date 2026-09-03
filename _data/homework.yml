@@ -16,9 +16,10 @@ homework:
 #  - title: "Prerequisite Math"
 #    label-number: 0
   - skip: true
-  - title: "Food Safety I"
-    label-number: 1
-    link:
+  # - title: "Food Safety I"
+  #   label-number: 1
+  #   link:
+  - skip: true
   - title: "Food Safety II"
     label-number: 2
     link:

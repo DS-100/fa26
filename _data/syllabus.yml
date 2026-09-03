@@ -62,21 +62,10 @@ extra_links_col4:
     label: homework-due
     label-number: 0
     link: https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Ffa26-student&branch=main&urlpath=lab%2Ftree%2Ffa26-student%2Fhw%2Fhw00%2Fhw00.ipynb
-  # - date: 2026-01-21
-  #   title: "Prerequisite Coding"
-  #   label: lab-released
-  #   label-number: 1
-  #   link: https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsp26-student&branch=main&urlpath=lab%2Ftree%2Fsp26-student%2Flab%2Flab01%2Flab01.ipynb
-  # - date: 2026-01-21
-  #   title: "Prerequisite Math"
-  #   label: homework-released
-  #   label-number: 1
-  #   link: https://drive.google.com/file/d/1bNTww2i7EKafzpOxJBJq2Uzmv5hly2GC/view?usp=sharing
-  # - date: 2026-01-21
-  #   title: "Coding"
-  #   label: homework-released
-  #   label-number: 1
-  #   link: https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsp26-student&branch=main&urlpath=lab%2Ftree%2Fsp26-student%2Fhw%2Fhw01%2Fhw01.ipynb
+  - date: 2026-09-04
+    title: "Food Safety I"
+    label: homework-released
+    label-number: 1
   # - date: 2026-02-20
   #   title: "Visualization"
   #   label: homework-released
