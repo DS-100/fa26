@@ -66,6 +66,7 @@ extra_links_col4:
     title: "Food Safety I"
     label: homework-released
     label-number: 1
+    link: https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Ffa26-student&branch=main&urlpath=lab%2Ftree%2Ffa26-student%2Fhw%2Fhw01%2Fhw01.ipynb
   # - date: 2026-02-20
   #   title: "Visualization"
   #   label: homework-released
