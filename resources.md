@@ -52,12 +52,12 @@ become part of the history of Data 100 at Berkeley.
 <!-- {: .note }
 > This section is currently under construction -- we will be adding more resources down below! -->
 
-### Pandas
+<!-- ### Pandas
 
   - [Pandas API Reference](https://pandas.pydata.org/pandas-docs/stable/reference/index.html)
   - [The Pandas Cookbook](http://nbviewer.jupyter.org/github/jvns/pandas-cookbook/tree/master/cookbook/): This provides a nice overview of some of the basic Pandas functions. However, it is slightly out of date.
   - [Learn Pandas](https://bitbucket.org/hrojas/learn-pandas) A set of lessons providing an overview of the Pandas library.
-  - [Python for Data Science](http://wavedatalab.github.io/datawithpython/index.html) Another set of notebook demonstrating Pandas functionality.
+  - [Python for Data Science](http://wavedatalab.github.io/datawithpython/index.html) Another set of notebook demonstrating Pandas functionality. -->
 
 ### SQL
 + We've assembled some [SQL Review Slides](https://docs.google.com/presentation/d/1mLVkQxah9asdKhnTNpcUSYBOuKGSWE_d3MJ5nYuTw9U/edit?usp=sharing) to help you brush up on SQL.
