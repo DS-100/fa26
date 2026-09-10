@@ -107,8 +107,8 @@ discussion_days: ['3']
 catch_up_days: ['5']
 lab_days: ['4']
 lab_due_days: ['2']
-hw_days: ['4']
 hw_due_days: ['5']
+hw_days: ['5']
 
 # Where should we start automatically numbering each course component?
 # For example, if you set starting_homework_number to 0, then the first homework
