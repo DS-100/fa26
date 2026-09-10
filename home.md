@@ -17,7 +17,7 @@ seo:
 {: .mb-2 .fs-6 .text-grey-dk-000 style="margin-top: 0;"  }
 
 [DataHub](https://data100.datahub.berkeley.edu/){:target="_blank" .btn .btn-datahub .mr-1}
-[Gradescope](https://www.gradescope.com/){:target="_blank" .btn .btn-gradescope .mr-1}
+[Pensive](https://www.pensive.com/){:target="_blank" .btn .btn-gradescope .mr-1}
 [EdStem](https://edstem.org/us/){:target="_blank" .btn .btn-ed .mr-1}
 [Office Hours](https://oh.ds100.org/){:target="_blank" .btn .btn-officehours .mr-1}
 [Discussions & Tutoring](https://sections.ds100.org/){:target="_blank" .btn .btn-sections .mr-1}
