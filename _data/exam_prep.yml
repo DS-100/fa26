@@ -11,8 +11,8 @@
 # skip: true will omit the exam prep from the schedule entirely
 # link overrides the default link to the collection page
 exam_prep:
-  # - slug: "01"
-  #   date: 2026-02-02
+  - slug: "01"
+    date: 2026-09-14
   # - slug: "02"
   #   date: 2026-02-09
   # - slug: "03"
