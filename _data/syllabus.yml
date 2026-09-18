@@ -16,11 +16,17 @@ extra_days_col3:
   - date: 2026-09-10
     title: "Prerequisite Quiz Window Closes"
     label: exam
+  - date: 2026-09-25
+    title: "Quizterm 1 Review Session (2 - 4 pm)"
+    label: exam
   - date: 2026-09-28
     title: "Quizterm 1 Window Opens"
     label: exam
   - date: 2026-10-01
     title: "Quizterm 1 Window Closes"
+    label: exam
+  - date: 2026-10-30
+    title: "Quizterm 2 Review Session (2 - 4 pm)"
     label: exam
   - date: 2026-11-04
     title: "Quizterm 2 Window Opens"
@@ -30,6 +36,9 @@ extra_days_col3:
     label: exam
   - date: 2026-12-02
     title: "Quizterm 3 Window Opens"
+    label: exam
+  - date: 2026-11-30
+    title: "Quizterm 3 Review Session (4 - 6 pm)"
     label: exam
   - date: 2026-12-04
     title: "Quizterm 3 Window Closes"
