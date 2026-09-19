@@ -13,7 +13,7 @@ homework-due:
     link: https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Ffa26-student&branch=main&urlpath=lab%2Ftree%2Ffa26-student%2Fhw%2Fhw02%2Fhw02.ipynb
   - title: "NYT Articles"
     label-number: 3
-    link: 
+    link: https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Ffa26-student&branch=main&urlpath=lab%2Ftree%2Ffa26-student%2Fhw%2Fhw03%2Fhw03.ipynb
   - title: "Visualization"
     label-number: 4
   - title: "Sampling, Modeling"
