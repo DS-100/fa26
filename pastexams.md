@@ -20,7 +20,7 @@ Jump to:
 {:toc}
 
 ## Reference Sheet
-Here were Fall 2025's reference sheets for [Midterm 1]({{ "/assets/exams/fa25/fa25_mt1_reference_sheet.pdf" | relative_url }}), [Midterm 2]({{ "/assets/exams/fa25/fa25_mt2_reference_sheet.pdf" | relative_url }}), and [Final]({{ "/assets/exams/fa25/fa25_final_reference_sheet.pdf" | relative_url }}).
+Here were Spring 2026's reference sheets for [Midterm 1]({{ "/assets/exams/sp26/sp26_mt1_reference_sheet.pdf" | relative_url }}), [Midterm 2]({{ "/assets/exams/sp26/sp26_mt2_reference_sheet.pdf" | relative_url }}), [Midterm 3]({{ "/assets/exams/sp26/sp26_mt3_reference_sheet.pdf" | relative_url }}), and [Final]({{ "/assets/exams/sp26/sp26_final_reference_sheet.pdf" | relative_url }}).
 
 ## Past Exams By Term
 **Note: You need to be currently enrolled in Data 100 to access PrairieLearn versions of practice exams.**
