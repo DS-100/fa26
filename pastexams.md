@@ -62,11 +62,11 @@ Here were Spring 2026's reference sheets for [Midterm 1]({{ "/assets/exams/sp26/
 
 | Exam | Questions | Solutions |
 | :-- | :-- | :-- |
-| Fall 2025 Midterm 1 | [Q1-2]({{ "/assets/exams/fa25/fa25_mt1.pdf" | relative_url }}), [*PrairieLearn*](https://us.prairielearn.com/pl/course_instance/207127/assessment/2640482/) | [Solutions]({{ "/assets/exams/fa25/fa25_mt1_sol.pdf" | relative_url }}) |
-| Summer 2025 Final | [Q1a-b]({{ "/assets/exams/su25/su25_final.pdf" | relative_url }}), [*PrairieLearn*](https://us.prairielearn.com/pl/course_instance/207127/assessment/2640877/) | [Solutions]({{ "/assets/exams/su25/su25_final_sol.pdf" | relative_url }}) |
-| Summer 2025 Midterm | [Q1c-g, Q2b]({{ "/assets/exams/su25/su25_mt.pdf" | relative_url }}), [*PrairieLearn*](https://us.prairielearn.com/pl/course_instance/207127/assessment/2640876/) | [Solutions]({{ "/assets/exams/su25/su25_mt_sol.pdf" | relative_url }}) |
+| Fall 2025 Midterm 1 | [Q1-2]({{ "/assets/exams/fa25/fa25_mt1.pdf" | relative_url }}), [*PrairieLearn*](https://us.prairielearn.com/) | [Solutions]({{ "/assets/exams/fa25/fa25_mt1_sol.pdf" | relative_url }}) |
+| Summer 2025 Final | [Q1a-b]({{ "/assets/exams/su25/su25_final.pdf" | relative_url }}) | [Solutions]({{ "/assets/exams/su25/su25_final_sol.pdf" | relative_url }}) |
+| Summer 2025 Midterm | [Q1c-g, Q2b]({{ "/assets/exams/su25/su25_mt.pdf" | relative_url }}) | [Solutions]({{ "/assets/exams/su25/su25_mt_sol.pdf" | relative_url }}) |
 | Spring 2025 Final | [Q1b-c, Q1e]({{ "/assets/exams/sp25/sp25_final.pdf" | relative_url }}) | [Solutions]({{ "/assets/exams/sp25/sp25_final_sols.pdf" | relative_url }}) |
-| Spring 2025 Midterm | [Q1g-i]({{ "/assets/exams/sp25/sp25_mt.pdf" | relative_url }}), [*PrairieLearn*](https://us.prairielearn.com/pl/course_instance/207127/assessment/2640875/) | [Solutions]({{ "/assets/exams/sp25/sp25_mt_sols.pdf" | relative_url }}) |
+| Spring 2025 Midterm | [Q1g-i]({{ "/assets/exams/sp25/sp25_mt.pdf" | relative_url }}) | [Solutions]({{ "/assets/exams/sp25/sp25_mt_sols.pdf" | relative_url }}) |
 | Fall 2024 Final | [Q1d, Q1e i, Q6d]({{ "/assets/exams/fa24/fa24_finals_qs.pdf" | relative_url }}) | [Solutions]({{ "/assets/exams/fa24/fa24_finals_sols.pdf" | relative_url }}) |
 | Fall 2024 Midterm | [Q2a-b, Q3a-c]({{ "/assets/exams/fa24/fa24_mt.pdf" | relative_url }}) | [Solutions]({{ "/assets/exams/fa24/fa24_midterm_sol.pdf" | relative_url }}) |
 | Summer 2024 Final | [Q5a-b, Q5d]({{ "/assets/exams/su24/su24_final.pdf" | relative_url }}) | [Solutions]({{ "/assets/exams/su24/su24_final_sol.pdf" | relative_url }}) |
@@ -104,11 +104,11 @@ Here were Spring 2026's reference sheets for [Midterm 1]({{ "/assets/exams/sp26/
 
 | Exam | Questions | Solutions |
 | :-- | :-- | :-- |
-| Fall 2025 Midterm 1 | [Q4]({{ "/assets/exams/fa25/fa25_mt1.pdf" | relative_url }}), [*PrairieLearn*](https://us.prairielearn.com/pl/course_instance/207127/assessment/2640482/) | [Solutions]({{ "/assets/exams/fa25/fa25_mt1_sol.pdf" | relative_url }}) |
-| Summer 2025 Final | [Q1f]({{ "/assets/exams/su25/su25_final.pdf" | relative_url }}), [*PrairieLearn*](https://us.prairielearn.com/pl/course_instance/207127/assessment/2640877/) | [Solutions]({{ "/assets/exams/su25/su25_final_sol.pdf" | relative_url }}) |
-| Summer 2025 Midterm | [Q1a-b, Q3a-b]({{ "/assets/exams/su25/su25_mt.pdf" | relative_url }}), [*PrairieLearn*](https://us.prairielearn.com/pl/course_instance/207127/assessment/2640876/) | [Solutions]({{ "/assets/exams/su25/su25_mt_sol.pdf" | relative_url }}) |
+| Fall 2025 Midterm 1 | [Q4]({{ "/assets/exams/fa25/fa25_mt1.pdf" | relative_url }}), [*PrairieLearn*](https://us.prairielearn.com/) | [Solutions]({{ "/assets/exams/fa25/fa25_mt1_sol.pdf" | relative_url }}) |
+| Summer 2025 Final | [Q1f]({{ "/assets/exams/su25/su25_final.pdf" | relative_url }}) | [Solutions]({{ "/assets/exams/su25/su25_final_sol.pdf" | relative_url }}) |
+| Summer 2025 Midterm | [Q1a-b, Q3a-b]({{ "/assets/exams/su25/su25_mt.pdf" | relative_url }}) | [Solutions]({{ "/assets/exams/su25/su25_mt_sol.pdf" | relative_url }}) |
 | Spring 2025 Final | [Q1b-d]({{ "/assets/exams/sp25/sp25_final.pdf" | relative_url }}) | [Solutions]({{ "/assets/exams/sp25/sp25_final_sols.pdf" | relative_url }}) |
-| Spring 2025 Midterm | [Q1a-g, Q3a-f]({{ "/assets/exams/sp25/sp25_mt.pdf" | relative_url }}), [*PrairieLearn*](https://us.prairielearn.com/pl/course_instance/207127/assessment/2640875/) | [Solutions]({{ "/assets/exams/sp25/sp25_mt_sols.pdf" | relative_url }}) |
+| Spring 2025 Midterm | [Q1a-g, Q3a-f]({{ "/assets/exams/sp25/sp25_mt.pdf" | relative_url }}) | [Solutions]({{ "/assets/exams/sp25/sp25_mt_sols.pdf" | relative_url }}) |
 | Fall 2024 Final | [Q1c, Q1e ii, Q1e iii]({{ "/assets/exams/fa24/fa24_finals_qs.pdf" | relative_url }}) | [Solutions]({{ "/assets/exams/fa24/fa24_finals_sols.pdf" | relative_url }}) |
 | Fall 2024 Midterm | [Q2f, Q3d-g]({{ "/assets/exams/fa24/fa24_mt.pdf" | relative_url }}) | [Solutions]({{ "/assets/exams/fa24/fa24_midterm_sol.pdf" | relative_url }}) |
 | Summer 2024 Final | [Q4a, Q5c]({{ "/assets/exams/su24/su24_final.pdf" | relative_url }}) | [Solutions]({{ "/assets/exams/su24/su24_final_sol.pdf" | relative_url }}) |
@@ -145,11 +145,11 @@ Here were Spring 2026's reference sheets for [Midterm 1]({{ "/assets/exams/sp26/
 
 | Exam | Questions | Solutions |
 | :-- | :-- | :-- |
-| Fall 2025 Midterm 1 | [Q3]({{ "/assets/exams/fa25/fa25_mt1.pdf" | relative_url }}), [*PrairieLearn*](https://us.prairielearn.com/pl/course_instance/207127/assessment/2640482/) | [Solutions]({{ "/assets/exams/fa25/fa25_mt1_sol.pdf" | relative_url }}) |
-| Summer 2025 Final | [Q1a]({{ "/assets/exams/su25/su25_final.pdf" | relative_url }}), [*PrairieLearn*](https://us.prairielearn.com/pl/course_instance/207127/assessment/2640877/) | [Solutions]({{ "/assets/exams/su25/su25_final_sol.pdf" | relative_url }}) |
-| Summer 2025 Midterm | [Q2]({{ "/assets/exams/su25/su25_mt.pdf" | relative_url }}), [*PrairieLearn*](https://us.prairielearn.com/pl/course_instance/207127/assessment/2640876/) | [Solutions]({{ "/assets/exams/su25/su25_mt_sol.pdf" | relative_url }}) |
+| Fall 2025 Midterm 1 | [Q3]({{ "/assets/exams/fa25/fa25_mt1.pdf" | relative_url }}), [*PrairieLearn*](https://us.prairielearn.com/) | [Solutions]({{ "/assets/exams/fa25/fa25_mt1_sol.pdf" | relative_url }}) |
+| Summer 2025 Final | [Q1a]({{ "/assets/exams/su25/su25_final.pdf" | relative_url }}) | [Solutions]({{ "/assets/exams/su25/su25_final_sol.pdf" | relative_url }}) |
+| Summer 2025 Midterm | [Q2]({{ "/assets/exams/su25/su25_mt.pdf" | relative_url }}) | [Solutions]({{ "/assets/exams/su25/su25_mt_sol.pdf" | relative_url }}) |
 | Spring 2025 Final | [Q1e]({{ "/assets/exams/sp25/sp25_final.pdf" | relative_url }}) | [Solutions]({{ "/assets/exams/sp25/sp25_final_sols.pdf" | relative_url }}) |
-| Spring 2025 Midterm | [Q2]({{ "/assets/exams/sp25/sp25_mt.pdf" | relative_url }}), [*PrairieLearn*](https://us.prairielearn.com/pl/course_instance/207127/assessment/2640875/) | [Solutions]({{ "/assets/exams/sp25/sp25_mt_sols.pdf" | relative_url }}) |
+| Spring 2025 Midterm | [Q2]({{ "/assets/exams/sp25/sp25_mt.pdf" | relative_url }}) | [Solutions]({{ "/assets/exams/sp25/sp25_mt_sols.pdf" | relative_url }}) |
 | Fall 2024 Final | [Q3c]({{ "/assets/exams/fa24/fa24_finals_qs.pdf" | relative_url }}) | [Solutions]({{ "/assets/exams/fa24/fa24_finals_sols.pdf" | relative_url }}) |
 | Fall 2024 Midterm | [Q4a-c]({{ "/assets/exams/fa24/fa24_mt.pdf" | relative_url }}) | [Solutions]({{ "/assets/exams/fa24/fa24_midterm_sol.pdf" | relative_url }}) |
 | Summer 2024 Midterm | [Q2f]({{ "/assets/exams/su24/su24_mt.pdf" | relative_url }}) | [Solutions]({{ "/assets/exams/su24/su24_mt_sol.pdf" | relative_url }}) |
@@ -180,12 +180,12 @@ Here were Spring 2026's reference sheets for [Midterm 1]({{ "/assets/exams/sp26/
 
 | Exam | Questions | Solutions |
 | :-- | :-- | :-- |
-| Fall 2025 Midterm 2 | [Q5]({{ "/assets/exams/fa25/fa25_mt2.pdf" | relative_url }}), [*PrairieLearn*](https://us.prairielearn.com/pl/course_instance/207127/assessment/2640483/) | [Solutions]({{ "/assets/exams/fa25/fa25_mt2_sol.pdf" | relative_url }}) |
-| Fall 2025 Midterm 1 | [Q5]({{ "/assets/exams/fa25/fa25_mt1.pdf" | relative_url }}), [*PrairieLearn*](https://us.prairielearn.com/pl/course_instance/207127/assessment/2640482/) | [Solutions]({{ "/assets/exams/fa25/fa25_mt1_sol.pdf" | relative_url }}) |
-| Summer 2025 Final | [Q1c, Q4a-d]({{ "/assets/exams/su25/su25_final.pdf" | relative_url }}), [*PrairieLearn*](https://us.prairielearn.com/pl/course_instance/207127/assessment/2640877/) | [Solutions]({{ "/assets/exams/su25/su25_final_sol.pdf" | relative_url }}) |
-| Summer 2025 Midterm | [Q1h, Q3d-f]({{ "/assets/exams/su25/su25_mt.pdf" | relative_url }}), [*PrairieLearn*](https://us.prairielearn.com/pl/course_instance/207127/assessment/2640876/) | [Solutions]({{ "/assets/exams/su25/su25_mt_sol.pdf" | relative_url }}) |
+| Fall 2025 Midterm 2 | [Q5]({{ "/assets/exams/fa25/fa25_mt2.pdf" | relative_url }}), [*PrairieLearn*](https://us.prairielearn.com/) | [Solutions]({{ "/assets/exams/fa25/fa25_mt2_sol.pdf" | relative_url }}) |
+| Fall 2025 Midterm 1 | [Q5]({{ "/assets/exams/fa25/fa25_mt1.pdf" | relative_url }}), [*PrairieLearn*](https://us.prairielearn.com/) | [Solutions]({{ "/assets/exams/fa25/fa25_mt1_sol.pdf" | relative_url }}) |
+| Summer 2025 Final | [Q1c, Q4a-d]({{ "/assets/exams/su25/su25_final.pdf" | relative_url }}) | [Solutions]({{ "/assets/exams/su25/su25_final_sol.pdf" | relative_url }}) |
+| Summer 2025 Midterm | [Q1h, Q3d-f]({{ "/assets/exams/su25/su25_mt.pdf" | relative_url }}) | [Solutions]({{ "/assets/exams/su25/su25_mt_sol.pdf" | relative_url }}) |
 | Spring 2025 Final | [Q1a, Q3d]({{ "/assets/exams/sp25/sp25_final.pdf" | relative_url }}) | [Solutions]({{ "/assets/exams/sp25/sp25_final_sols.pdf" | relative_url }}) |
-| Spring 2025 Midterm | [Q3a-f]({{ "/assets/exams/sp25/sp25_mt.pdf" | relative_url }}), [*PrairieLearn*](https://us.prairielearn.com/pl/course_instance/207127/assessment/2640875/) | [Solutions]({{ "/assets/exams/sp25/sp25_mt_sols.pdf" | relative_url }}) |
+| Spring 2025 Midterm | [Q3a-f]({{ "/assets/exams/sp25/sp25_mt.pdf" | relative_url }}) | [Solutions]({{ "/assets/exams/sp25/sp25_mt_sols.pdf" | relative_url }}) |
 | Fall 2024 Final | [Q1a-b]({{ "/assets/exams/fa24/fa24_finals_qs.pdf" | relative_url }}) | [Solutions]({{ "/assets/exams/fa24/fa24_finals_sols.pdf" | relative_url }}) |
 | Fall 2024 Midterm | [Q1b-c]({{ "/assets/exams/fa24/fa24_mt.pdf" | relative_url }}) | [Solutions]({{ "/assets/exams/fa24/fa24_midterm_sol.pdf" | relative_url }}) |
 | Summer 2024 Final | [Q1a-c, Q7c (Expectation)]({{ "/assets/exams/su24/su24_final.pdf" | relative_url }}) | [Solutions]({{ "/assets/exams/su24/su24_final_sol.pdf" | relative_url }}) |
@@ -224,11 +224,11 @@ Here were Spring 2026's reference sheets for [Midterm 1]({{ "/assets/exams/sp26/
 
 | Exam | Questions | Solutions |
 | :-- | :-- | :-- |
-| Fall 2025 Midterm 2 | [Q2-3, Q6-7]({{ "/assets/exams/fa25/fa25_mt2.pdf" | relative_url }}), [*PrairieLearn*](https://us.prairielearn.com/pl/course_instance/207127/assessment/2640483/) | [Solutions]({{ "/assets/exams/fa25/fa25_mt2_sol.pdf" | relative_url }}) |
-| Summer 2025 Final | [Q2b]({{ "/assets/exams/su25/su25_final.pdf" | relative_url }}), [*PrairieLearn*](https://us.prairielearn.com/pl/course_instance/207127/assessment/2640877/) | [Solutions]({{ "/assets/exams/su25/su25_final_sol.pdf" | relative_url }}) |
-| Summer 2025 Midterm | [Q4a, Q4c]({{ "/assets/exams/su25/su25_mt.pdf" | relative_url }}), [*PrairieLearn*](https://us.prairielearn.com/pl/course_instance/207127/assessment/2640876/) | [Solutions]({{ "/assets/exams/su25/su25_mt_sol.pdf" | relative_url }}) |
+| Fall 2025 Midterm 2 | [Q2-3, Q6-7]({{ "/assets/exams/fa25/fa25_mt2.pdf" | relative_url }}), [*PrairieLearn*](https://us.prairielearn.com/) | [Solutions]({{ "/assets/exams/fa25/fa25_mt2_sol.pdf" | relative_url }}) |
+| Summer 2025 Final | [Q2b]({{ "/assets/exams/su25/su25_final.pdf" | relative_url }}) | [Solutions]({{ "/assets/exams/su25/su25_final_sol.pdf" | relative_url }}) |
+| Summer 2025 Midterm | [Q4a, Q4c]({{ "/assets/exams/su25/su25_mt.pdf" | relative_url }}) | [Solutions]({{ "/assets/exams/su25/su25_mt_sol.pdf" | relative_url }}) |
 | Spring 2025 Final | [Q2a-b]({{ "/assets/exams/sp25/sp25_final.pdf" | relative_url }}) | [Solutions]({{ "/assets/exams/sp25/sp25_final_sols.pdf" | relative_url }}) |
-| Spring 2025 Midterm | [Q3g-h, Q4]({{ "/assets/exams/sp25/sp25_mt.pdf" | relative_url }}), [*PrairieLearn*](https://us.prairielearn.com/pl/course_instance/207127/assessment/2640875/) | [Solutions]({{ "/assets/exams/sp25/sp25_mt_sols.pdf" | relative_url }}) |
+| Spring 2025 Midterm | [Q3g-h, Q4]({{ "/assets/exams/sp25/sp25_mt.pdf" | relative_url }}) | [Solutions]({{ "/assets/exams/sp25/sp25_mt_sols.pdf" | relative_url }}) |
 | Fall 2024 Final | [Q3g-j, Q4]({{ "/assets/exams/fa24/fa24_finals_qs.pdf" | relative_url }}) | [Solutions]({{ "/assets/exams/fa24/fa24_finals_sols.pdf" | relative_url }}) |
 | Spring 2024 Midterm | [Q6]({{ "/assets/exams/sp24/ds100-sp24-midterm.pdf" | relative_url }}) | [Solutions]({{ "/assets/exams/sp24/ds100-sp24-midterm-sol.pdf" | relative_url }}) |
 | Fall 2023 Midterm | [Q5c, Q6]({{ "/assets/exams/fa23/fa23-midterm-ds100.pdf" | relative_url }}) | [Solutions]({{ "/assets/exams/fa23/fa23-midterm-ds100-sol.pdf" | relative_url }}) |
@@ -264,12 +264,12 @@ Here were Spring 2026's reference sheets for [Midterm 1]({{ "/assets/exams/sp26/
 
 | Exam | Questions | Solutions |
 | :-- | :-- | :-- |
-| Fall 2025 Midterm 2 | [Q3]({{ "/assets/exams/fa25/fa25_mt2.pdf" | relative_url }}), [*PrairieLearn*](https://us.prairielearn.com/pl/course_instance/207127/assessment/2640483/) | [Solutions]({{ "/assets/exams/fa25/fa25_mt2_sol.pdf" | relative_url }}) |
-| Fall 2025 Midterm 1 | [Q6, Q7]({{ "/assets/exams/fa25/fa25_mt1.pdf" | relative_url }}), [*PrairieLearn*](https://us.prairielearn.com/pl/course_instance/207127/assessment/2640482/) | [Solutions]({{ "/assets/exams/fa25/fa25_mt1_sol.pdf" | relative_url }}) |
-| Summer 2025 Final | [Q2a, Q2c, Q2d(iii)-(iv)]({{ "/assets/exams/su25/su25_final.pdf" | relative_url }}), [*PrairieLearn*](https://us.prairielearn.com/pl/course_instance/207127/assessment/2640877/) | [Solutions]({{ "/assets/exams/su25/su25_final_sol.pdf" | relative_url }}) |
-| Summer 2025 Midterm | [Q4b-c]({{ "/assets/exams/su25/su25_mt.pdf" | relative_url }}), [*PrairieLearn*](https://us.prairielearn.com/pl/course_instance/207127/assessment/2640876/) | [Solutions]({{ "/assets/exams/su25/su25_mt_sol.pdf" | relative_url }}) |
+| Fall 2025 Midterm 2 | [Q3]({{ "/assets/exams/fa25/fa25_mt2.pdf" | relative_url }}), [*PrairieLearn*](https://us.prairielearn.com/) | [Solutions]({{ "/assets/exams/fa25/fa25_mt2_sol.pdf" | relative_url }}) |
+| Fall 2025 Midterm 1 | [Q6, Q7]({{ "/assets/exams/fa25/fa25_mt1.pdf" | relative_url }}), [*PrairieLearn*](https://us.prairielearn.com/) | [Solutions]({{ "/assets/exams/fa25/fa25_mt1_sol.pdf" | relative_url }}) |
+| Summer 2025 Final | [Q2a, Q2c, Q2d(iii)-(iv)]({{ "/assets/exams/su25/su25_final.pdf" | relative_url }}) | [Solutions]({{ "/assets/exams/su25/su25_final_sol.pdf" | relative_url }}) |
+| Summer 2025 Midterm | [Q4b-c]({{ "/assets/exams/su25/su25_mt.pdf" | relative_url }}) | [Solutions]({{ "/assets/exams/su25/su25_mt_sol.pdf" | relative_url }}) |
 | Spring 2025 Final | [Q2e-g]({{ "/assets/exams/sp25/sp25_final.pdf" | relative_url }}) | [Solutions]({{ "/assets/exams/sp25/sp25_final_sols.pdf" | relative_url }}) |
-| Spring 2025 Midterm | [Q3e]({{ "/assets/exams/sp25/sp25_mt.pdf" | relative_url }}), [*PrairieLearn*](https://us.prairielearn.com/pl/course_instance/207127/assessment/2640875/) | [Solutions]({{ "/assets/exams/sp25/sp25_mt_sols.pdf" | relative_url }}) |
+| Spring 2025 Midterm | [Q3e]({{ "/assets/exams/sp25/sp25_mt.pdf" | relative_url }}) | [Solutions]({{ "/assets/exams/sp25/sp25_mt_sols.pdf" | relative_url }}) |
 | Fall 2024 Final | [Q3a, Q5a-b, Q6c]({{ "/assets/exams/fa24/fa24_finals_qs.pdf" | relative_url }}) | [Solutions]({{ "/assets/exams/fa24/fa24_finals_sols.pdf" | relative_url }}) |
 | Spring 2024 Final | [Q2]({{ "/assets/exams/sp24/ds100-sp24-final.pdf" | relative_url }}) | [Solutions](https://ds100.org/sp24/resources/assets/exams/sp24/ds100-sp24-final-sol.pdf) |
 | Spring 2024 Midterm | [Q5]({{ "/assets/exams/sp24/ds100-sp24-midterm.pdf" | relative_url }}) | [Solutions]({{ "/assets/exams/sp24/ds100-sp24-midterm-sol.pdf" | relative_url }}) |
@@ -303,9 +303,9 @@ Here were Spring 2026's reference sheets for [Midterm 1]({{ "/assets/exams/sp26/
 
 | Exam | Questions | Solutions |
 | :-- | :-- | :-- |
-| Fall 2025 Midterm 2 | [Q2, Q4, Q6]({{ "/assets/exams/fa25/fa25_mt2.pdf" | relative_url }}), [*PrairieLearn*](https://us.prairielearn.com/pl/course_instance/207127/assessment/2640483/) | [Solutions]({{ "/assets/exams/fa25/fa25_mt2_sol.pdf" | relative_url }}) |
-| Summer 2025 Midterm | [Q3c]({{ "/assets/exams/su25/su25_mt.pdf" | relative_url }}), [*PrairieLearn*](https://us.prairielearn.com/pl/course_instance/207127/assessment/2640876/) | [Solutions]({{ "/assets/exams/su25/su25_mt_sol.pdf" | relative_url }}) |
-| Spring 2025 Midterm | [Q4b]({{ "/assets/exams/sp25/sp25_mt.pdf" | relative_url }}), [*PrairieLearn*](https://us.prairielearn.com/pl/course_instance/207127/assessment/2640875/) | [Solutions]({{ "/assets/exams/sp25/sp25_mt_sols.pdf" | relative_url }}) |
+| Fall 2025 Midterm 2 | [Q2, Q4, Q6]({{ "/assets/exams/fa25/fa25_mt2.pdf" | relative_url }}), [*PrairieLearn*](https://us.prairielearn.com/) | [Solutions]({{ "/assets/exams/fa25/fa25_mt2_sol.pdf" | relative_url }}) |
+| Summer 2025 Midterm | [Q3c]({{ "/assets/exams/su25/su25_mt.pdf" | relative_url }}) | [Solutions]({{ "/assets/exams/su25/su25_mt_sol.pdf" | relative_url }}) |
+| Spring 2025 Midterm | [Q4b]({{ "/assets/exams/sp25/sp25_mt.pdf" | relative_url }}) | [Solutions]({{ "/assets/exams/sp25/sp25_mt_sols.pdf" | relative_url }}) |
 | Fall 2024 Final | [Q3d]({{ "/assets/exams/fa24/fa24_finals_qs.pdf" | relative_url }}) | [Solutions]({{ "/assets/exams/fa24/fa24_finals_sols.pdf" | relative_url }}) |
 | Spring 2024 Final | [Q3b-d]({{ "/assets/exams/sp24/ds100-sp24-final.pdf" | relative_url }}) | [Solutions](https://ds100.org/sp24/resources/assets/exams/sp24/ds100-sp24-final-sol.pdf) |
 | Spring 2022 Midterm 2 | [Q6]({{ "/assets/exams/sp22/sp22_mt2.pdf" | relative_url }}) | [Solutions]({{ "/assets/exams/sp22/sp22_mt2_sol.pdf" | relative_url }}) |
@@ -325,8 +325,8 @@ Here were Spring 2026's reference sheets for [Midterm 1]({{ "/assets/exams/sp26/
 
 | Exam | Questions | Solutions |
 | :-- | :-- | :-- |
-| Fall 2025 Midterm 2 | [Q1, Q6]({{ "/assets/exams/fa25/fa25_mt2.pdf" | relative_url }}), [*PrairieLearn*](https://us.prairielearn.com/pl/course_instance/207127/assessment/2640483/) | [Solutions]({{ "/assets/exams/fa25/fa25_mt2_sol.pdf" | relative_url }}) |
-| Summer 2025 Final | [Q2d]({{ "/assets/exams/su25/su25_final.pdf" | relative_url }}), [*PrairieLearn*](https://us.prairielearn.com/pl/course_instance/207127/assessment/2640877/) | [Solutions]({{ "/assets/exams/su25/su25_final_sol.pdf" | relative_url }}) |
+| Fall 2025 Midterm 2 | [Q1, Q6]({{ "/assets/exams/fa25/fa25_mt2.pdf" | relative_url }}), [*PrairieLearn*](https://us.prairielearn.com/) | [Solutions]({{ "/assets/exams/fa25/fa25_mt2_sol.pdf" | relative_url }}) |
+| Summer 2025 Final | [Q2d]({{ "/assets/exams/su25/su25_final.pdf" | relative_url }}) | [Solutions]({{ "/assets/exams/su25/su25_final_sol.pdf" | relative_url }}) |
 | Spring 2025 Final | [Q2a, Q2c-d]({{ "/assets/exams/sp25/sp25_final.pdf" | relative_url }}) | [Solutions]({{ "/assets/exams/sp25/sp25_final_sols.pdf" | relative_url }}) |
 | Fall 2024 Final | [Q3f, Q4a-c]({{ "/assets/exams/fa24/fa24_finals_qs.pdf" | relative_url }}) | [Solutions]({{ "/assets/exams/fa24/fa24_finals_sols.pdf" | relative_url }}) |
 | Spring 2024 Final | [Q4b-d]({{ "/assets/exams/sp24/ds100-sp24-final.pdf" | relative_url }}) | [Solutions](https://ds100.org/sp24/resources/assets/exams/sp24/ds100-sp24-final-sol.pdf) |
@@ -352,7 +352,7 @@ Here were Spring 2026's reference sheets for [Midterm 1]({{ "/assets/exams/sp26/
 
 | Exam | Questions | Solutions |
 | :-- | :-- | :-- |
-| Fall 2025 Midterm 2 | [Q6]({{ "/assets/exams/fa25/fa25_mt2.pdf" | relative_url }}), [*PrairieLearn*](https://us.prairielearn.com/pl/course_instance/207127/assessment/2640483/) | [Solutions]({{ "/assets/exams/fa25/fa25_mt2_sol.pdf" | relative_url }}) |
+| Fall 2025 Midterm 2 | [Q6]({{ "/assets/exams/fa25/fa25_mt2.pdf" | relative_url }}), [*PrairieLearn*](https://us.prairielearn.com/) | [Solutions]({{ "/assets/exams/fa25/fa25_mt2_sol.pdf" | relative_url }}) |
 | Spring 2025 Final | [Q2b]({{ "/assets/exams/sp25/sp25_final.pdf" | relative_url }}) | [Solutions]({{ "/assets/exams/sp25/sp25_final_sols.pdf" | relative_url }}) |
 | Fall 2024 Final | [Q3b]({{ "/assets/exams/fa24/fa24_finals_qs.pdf" | relative_url }}) | [Solutions]({{ "/assets/exams/fa24/fa24_finals_sols.pdf" | relative_url }}) |
 | Spring 2024 Final | [Q6]({{ "/assets/exams/sp24/ds100-sp24-final.pdf" | relative_url }}) | [Solutions](https://ds100.org/sp24/resources/assets/exams/sp24/ds100-sp24-final-sol.pdf) |
@@ -373,8 +373,8 @@ Here were Spring 2026's reference sheets for [Midterm 1]({{ "/assets/exams/sp26/
 
 | Exam | Questions | Solutions |
 | :-- | :-- | :-- |
-| Fall 2025 Midterm 2 | [Q7]({{ "/assets/exams/fa25/fa25_mt2.pdf" | relative_url }}), [*PrairieLearn*](https://us.prairielearn.com/pl/course_instance/207127/assessment/2640483/) | [Solutions]({{ "/assets/exams/fa25/fa25_mt2_sol.pdf" | relative_url }}) |
-| Summer 2025 Final | [Q4d-h]({{ "/assets/exams/su25/su25_final.pdf" | relative_url }}), [*PrairieLearn*](https://us.prairielearn.com/pl/course_instance/207127/assessment/2640877/) | [Solutions]({{ "/assets/exams/su25/su25_final_sol.pdf" | relative_url }}) |
+| Fall 2025 Midterm 2 | [Q7]({{ "/assets/exams/fa25/fa25_mt2.pdf" | relative_url }}), [*PrairieLearn*](https://us.prairielearn.com/) | [Solutions]({{ "/assets/exams/fa25/fa25_mt2_sol.pdf" | relative_url }}) |
+| Summer 2025 Final | [Q4d-h]({{ "/assets/exams/su25/su25_final.pdf" | relative_url }}) | [Solutions]({{ "/assets/exams/su25/su25_final_sol.pdf" | relative_url }}) |
 | Spring 2025 Final | [Q3a-c]({{ "/assets/exams/sp25/sp25_final.pdf" | relative_url }}) | [Solutions]({{ "/assets/exams/sp25/sp25_final_sols.pdf" | relative_url }}) |
 | Summer 2020 Final | [Q8]({{ "/assets/exams/su20/su20final.pdf" | relative_url }}) | [Solutions]({{ "/assets/exams/su20/su20finalsol.pdf" | relative_url }}) |
 | Spring 2019 Final | [Q6d (Page 6), Q9 (Page 8)]({{ "/assets/exams/sp19/data100_sp19_final.pdf" | relative_url }}) | [Solutions]({{ "/assets/exams/sp19/data100_sp19_final_sol.pdf" | relative_url }}) |
@@ -388,7 +388,7 @@ Here were Spring 2026's reference sheets for [Midterm 1]({{ "/assets/exams/sp26/
 
 | Exam | Questions | Solutions |
 | :-- | :-- | :-- |
-| Summer 2025 Final | [Q1d-e]({{ "/assets/exams/su25/su25_final.pdf" | relative_url }}), [*PrairieLearn*](https://us.prairielearn.com/pl/course_instance/207127/assessment/2640877/) | [Solutions]({{ "/assets/exams/su25/su25_final_sol.pdf" | relative_url }}) |
+| Summer 2025 Final | [Q1d-e]({{ "/assets/exams/su25/su25_final.pdf" | relative_url }}) | [Solutions]({{ "/assets/exams/su25/su25_final_sol.pdf" | relative_url }}) |
 | Spring 2025 Final | [Q1f]({{ "/assets/exams/sp25/sp25_final.pdf" | relative_url }}) | [Solutions]({{ "/assets/exams/sp25/sp25_final_sols.pdf" | relative_url }}) |
 | Fall 2024 Final | [Q2]({{ "/assets/exams/fa24/fa24_finals_qs.pdf" | relative_url }}) | [Solutions]({{ "/assets/exams/fa24/fa24_finals_sols.pdf" | relative_url }}) |
 | Fall 2024 Midterm | [Q1a]({{ "/assets/exams/fa24/fa24_mt.pdf" | relative_url }}) | [Solutions]({{ "/assets/exams/fa24/fa24_midterm_sol.pdf" | relative_url }}) |
@@ -406,7 +406,7 @@ Here were Spring 2026's reference sheets for [Midterm 1]({{ "/assets/exams/sp26/
 
 | Exam | Questions | Solutions |
 | :-- | :-- | :-- |
-| Summer 2025 Final | [Q3a-c]({{ "/assets/exams/su25/su25_final.pdf" | relative_url }}), [*PrairieLearn*](https://us.prairielearn.com/pl/course_instance/207127/assessment/2640877/) | [Solutions]({{ "/assets/exams/su25/su25_final_sol.pdf" | relative_url }}) |
+| Summer 2025 Final | [Q3a-c]({{ "/assets/exams/su25/su25_final.pdf" | relative_url }}) | [Solutions]({{ "/assets/exams/su25/su25_final_sol.pdf" | relative_url }}) |
 | Spring 2025 Final | [Q3e-f]({{ "/assets/exams/sp25/sp25_final.pdf" | relative_url }}) | [Solutions]({{ "/assets/exams/sp25/sp25_final_sols.pdf" | relative_url }}) |
 | Fall 2024 Final | [Q6a]({{ "/assets/exams/fa24/fa24_finals_qs.pdf" | relative_url }}) | [Solutions]({{ "/assets/exams/fa24/fa24_finals_sols.pdf" | relative_url }}) |
 | Spring 2024 Final | [Q8]({{ "/assets/exams/sp24/ds100-sp24-final.pdf" | relative_url }}) | [Solutions](https://ds100.org/sp24/resources/assets/exams/sp24/ds100-sp24-final-sol.pdf) |
@@ -430,7 +430,7 @@ Here were Spring 2026's reference sheets for [Midterm 1]({{ "/assets/exams/sp26/
 
 | Exam | Questions | Solutions |
 | :-- | :-- | :-- |
-| Summer 2025 Final | [Q3d]({{ "/assets/exams/su25/su25_final.pdf" | relative_url }}), [*PrairieLearn*](https://us.prairielearn.com/pl/course_instance/207127/assessment/2640877/) | [Solutions]({{ "/assets/exams/su25/su25_final_sol.pdf" | relative_url }}) |
+| Summer 2025 Final | [Q3d]({{ "/assets/exams/su25/su25_final.pdf" | relative_url }}) | [Solutions]({{ "/assets/exams/su25/su25_final_sol.pdf" | relative_url }}) |
 | Spring 2025 Final | [Q4a-b]({{ "/assets/exams/sp25/sp25_final.pdf" | relative_url }}) | [Solutions]({{ "/assets/exams/sp25/sp25_final_sols.pdf" | relative_url }}) |
 | Fall 2024 Final | [Q7]({{ "/assets/exams/fa24/fa24_finals_qs.pdf" | relative_url }}) | [Solutions]({{ "/assets/exams/fa24/fa24_finals_sols.pdf" | relative_url }}) |
 | Spring 2024 Final | [Q9]({{ "/assets/exams/sp24/ds100-sp24-final.pdf" | relative_url }}) | [Solutions](https://ds100.org/sp24/resources/assets/exams/sp24/ds100-sp24-final-sol.pdf) |
@@ -447,7 +447,7 @@ Here were Spring 2026's reference sheets for [Midterm 1]({{ "/assets/exams/sp26/
 
 | Exam | Questions | Solutions |
 | :-- | :-- | :-- |
-| Summer 2025 Final | [Q3e-g]({{ "/assets/exams/su25/su25_final.pdf" | relative_url }}), [*PrairieLearn*](https://us.prairielearn.com/pl/course_instance/207127/assessment/2640877/) | [Solutions]({{ "/assets/exams/su25/su25_final_sol.pdf" | relative_url }}) |
+| Summer 2025 Final | [Q3e-g]({{ "/assets/exams/su25/su25_final.pdf" | relative_url }}) | [Solutions]({{ "/assets/exams/su25/su25_final_sol.pdf" | relative_url }}) |
 | Spring 2025 Final | [Q4c-d]({{ "/assets/exams/sp25/sp25_final.pdf" | relative_url }}) | [Solutions]({{ "/assets/exams/sp25/sp25_final_sols.pdf" | relative_url }}) |
 | Fall 2024 Final | [Q8]({{ "/assets/exams/fa24/fa24_finals_qs.pdf" | relative_url }}) | [Solutions]({{ "/assets/exams/fa24/fa24_finals_sols.pdf" | relative_url }}) |
 | Spring 2024 Final | [Q10]({{ "/assets/exams/sp24/ds100-sp24-final.pdf" | relative_url }}) | [Solutions](https://ds100.org/sp24/resources/assets/exams/sp24/ds100-sp24-final-sol.pdf) |
