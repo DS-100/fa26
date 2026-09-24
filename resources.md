@@ -17,7 +17,7 @@ Jump to:
 {:toc}
 
 ## Reference Sheet
-Here is the the reference sheet for [Quizterm 1]({{ "/assets/exams/fa26/fa26_mt1_reference_sheet.pdf" | relative_url }}), which you will be provided with during the exam. We reserve the right to update it at any time before the exam, but you can expect it to look very similar.
+Here is the reference sheet for [Quizterm 1]({{ "/assets/exams/fa26/fa26_mt1_reference_sheet.pdf" | relative_url }}), which you will be provided with during the exam. We reserve the right to update it at any time before the exam, but you can expect it to look very similar.
 
 Here were Spring 2026's reference sheets for [Midterm 1]({{ "/assets/exams/sp26/sp26_mt1_reference_sheet.pdf" | relative_url }}), [Midterm 2]({{ "/assets/exams/sp26/sp26_mt2_reference_sheet.pdf" | relative_url }}), [Midterm 3]({{ "/assets/exams/sp26/sp26_mt3_reference_sheet.pdf" | relative_url }}), and [Final]({{ "/assets/exams/sp26/sp26_final_reference_sheet.pdf" | relative_url }}).
 
