@@ -49,8 +49,10 @@ lectures:
         link: https://ds100.org/course-notes/regex/
   - slug: "08"
     readings:
-      - title: Note 8
-        link: 
+      - title: Note 8 Part 1
+        link: https://ds100.org/course-notes/visualization-1/
+      - title: Part 2
+        link: https://ds100.org/course-notes/visualization-2/
   - slug: "09"
     readings:
       - title: Note 9
