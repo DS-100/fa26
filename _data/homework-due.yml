@@ -21,11 +21,12 @@ homework-due:
   - title: "Sampling, Modeling"
     label-number: 5
     link: https://drive.google.com/file/d/1W6ecDCIjI_1K5xw2xsi1cPr20NvhGiin/view?usp=sharing
+  - title: "Gradient Descent"
+    label-number: 6 
   - skip: true # proj a1 due
   - skip: true # spring break
-  - skip: true # proj a2 due
   - title: "Probability"
-    label-number: 6 # note hw 6 due monday of this week
-  - title: "TBD"
     label-number: 7
+  - title: "TBD"
+    label-number: 8
     link: 

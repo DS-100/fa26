@@ -5,7 +5,7 @@
 # 1, 2, 3, etc. or A, B, C, etc. or whatever you want
 projects:
   - title: "Housing I"
-    date: 2026-10-22
+    date: 2026-10-23
     label-number: A1
     link: 
   - title: "Housing II"

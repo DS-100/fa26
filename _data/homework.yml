@@ -33,14 +33,16 @@ homework:
     label-number: 5
     link: https://drive.google.com/file/d/1W6ecDCIjI_1K5xw2xsi1cPr20NvhGiin/view?usp=sharing
   - skip: true
+  - title: "Gradient Descent"
+    label-number: 6
+    link:
   - skip: true # proj A1
   - skip: true # proj A2
-  - skip: true # spring break
   - title: "Probability"
-    label-number: 6
-    link: 
-  - title: "TBD"
     label-number: 7
+    link:
+  - title: "TBD"
+    label-number: 8
     link: 
   - skip: true # proj B1
   - skip: true # proj B2
