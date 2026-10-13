@@ -49,7 +49,7 @@ lectures:
         link: https://ds100.org/course-notes/regex/
   - slug: "08"
     readings:
-      - title: Visualization I Notes, 
+      - title: Visualization I Notes 
         link: https://ds100.org/course-notes/visualization-1/
       - title: Visualization II Notes
         link: https://ds100.org/course-notes/visualization-2/
