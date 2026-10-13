@@ -25,53 +25,53 @@ lectures:
     #     link: 
   - slug: "02"
     readings:
-      - title: Note 2
+      - title: EDA I Notes
         link:  https://ds100.org/course-notes/new-eda-1/
   - slug: "03"
     readings:
-      - title: Note 3
+      - title: EDA II Notes
         link: https://ds100.org/course-notes/new-eda-2/
   - slug: "04"
     readings:
-      - title: Note 4
+      - title: EDA III Notes
         link: https://ds100.org/course-notes/new-eda-3/
   - slug: "05"
     readings:
-      - title: Note 5
+      - title: EDA IV Notes
         link: https://ds100.org/course-notes/new-eda-4/
   - slug: "06"
     readings:
-      - title: Note 6
+      - title: EDA V Notes
         link: https://ds100.org/course-notes/new-eda-5/
   - slug: "07"
     readings:
-      - title: Note 7
+      - title: Regex Notes
         link: https://ds100.org/course-notes/regex/
   - slug: "08"
     readings:
-      - title: Note 8 Part 1
+      - title: Visualization I Notes, 
         link: https://ds100.org/course-notes/visualization-1/
-      - title: Part 2
+      - title: Visualization II Notes
         link: https://ds100.org/course-notes/visualization-2/
   - slug: "09"
     readings:
-      - title: Note 9
+      - title: Sampling Notes
         link: https://ds100.org/course-notes/sampling/
   - slug: "10"
     readings:
-      - title: Note 10
+      - title: Modeling & SLR Notes
         link: https://ds100.org/course-notes/modeling-slr/
   - slug: "11"
     readings:
-      - title: Note 11
+      - title: Loss Transformations Notes
         link: https://ds100.org/course-notes/loss-transformations/
   - slug: "12"
     readings:
-      - title: Note 12
+      - title: OLS Notes
         link: https://ds100.org/course-notes/ols/
   - slug: "13"
     readings:
-      - title: Note 13
+      - title: OLS Notes
         link: https://ds100.org/course-notes/ols/
   - slug: "14"
     readings:
