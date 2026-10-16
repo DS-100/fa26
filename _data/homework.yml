@@ -35,7 +35,7 @@ homework:
   - skip: true
   - title: "Gradient Descent"
     label-number: 6
-    link:
+    link: https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Ffa26-student&branch=main&urlpath=lab%2Ftree%2Ffa26-student%2Fhw%2Fhw06%2Fhw06.ipynb
   - skip: true # proj A1
   - skip: true # proj A2
   - title: "Probability"
