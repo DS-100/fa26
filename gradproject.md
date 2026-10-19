@@ -23,7 +23,7 @@ The purpose of the project is to give students experience in both open-ended dat
 
 ### Teamwork
 
-**You must work in groups of two or three students.** In order to give everyone experience in collaborating on a data science project, individual projects are not allowed. Everyone in the same group will receive the same grade (except for exceptional circumstances).
+**You must work in groups of three or four students.** In order to give everyone experience in collaborating on a data science project, individual or two-person projects are not allowed. Everyone in the same group will receive the same grade (except for exceptional circumstances).
 
 ## Milestones and Grading Breakdown
 
@@ -31,19 +31,10 @@ The purpose of the project is to give students experience in both open-ended dat
 | ----------- | --------------------------- | ----- | ------------ | --------------- | -------------- |
 | Milestone 1 | March 4 | Group Formation + Research Proposal | [Project Proposal](https://docs.google.com/document/d/1dG6FKeC966gmec5rz6uD7tZYEVJv0n5w0kN4BuLkYnM/edit?usp=sharing){:target="_blank"} | [Pensive](https://www.pensive.com/student/classes/data100_sp26/my-assignments?submitAssignment=89e4cd98-a5de-47e9-8b52-3cf9e50c850d){:target="_blank"} | 5% |
 | Milestone 2 | March 18 | EDA | EDA Write-Up + Notebook | Pensive | 10% |
-| Milestone 3 | April 1 | Mandatory Check-In | Progress Report + Meeting Booking | Pensive | 10% |
-| Milestone 4 | April 15 | Project Report First Draft | Final Report Draft Write-Up | Pensive | 20% |
-| Milestone 5 | April 27 | External Peer Review | External Peer Review | Pensive | 7% |
+| Milestone 3 | April 1 | Mandatory Check-In | Progress Report + Meeting Booking + Final Report Draft| Pensive | 30% |
+| Milestone 4 | April 27 | External Peer Review | External Peer Review | Pensive | 7% |
 | Final Submission | May 6 | Final Project Report | Final Project Report + Presentation Video | Project Report Pensive <br> CV Predictions Pensive | 42% |
-| Weekly Internal Peer Reviews | Due along with Milestones 2, 3, 4, and Final Submission | Internal Peer Review | Internal Peer Review | Pensive (Please refer to corresponding link each week) | 6% |
-
-<!-- [Pensive](https://www.pensive.com/student/classes/data100_sp26/my-assignments/89e4cd98-a5de-47e9-8b52-3cf9e50c850d){:target="_blank"}
-| [Pensive](https://www.pensive.com/student/classes/data100_sp26/my-assignments/online/eefe2e77-fa62-474d-b2a9-a46dea57e5bf){:target="_blank"}
-| [Pensive](https://www.pensive.com/student/classes/data100_sp26/my-assignments/f3adbdd0-7065-4704-b2e6-1eba40d58402){:target="_blank"}
-| [Pensive](https://www.pensive.com/student/classes/data100_sp26/my-assignments/a1b381cf-b199-4cf1-b444-a5450fa8e61c){:target="_blank"}
-| [Pensive](https://www.pensive.com/student/classes/data100_sp26/my-assignments/ab11b023-565b-4ea0-9060-ea18fa127878){:target="_blank"}
-| [Project Report Pensive](https://www.pensive.com/student/classes/data100_sp26/my-assignments/84ce9404-9427-4b70-a6d7-b2d9e9e6cb24){:target="_blank"} [CV Predictions Pensive](https://www.pensive.com/student/classes/data100_sp26/my-assignments/programming/6a25bfef-3958-4447-ade0-96071cb30128){:target="_blank"}
-| [Pensive](https://www.pensive.com/student/classes/data100_sp26/my-assignments){:target="_blank"} -->
+| Internal Peer Reviews | Due along with Milestones 3 and Final Submission | Internal Peer Review | Internal Peer Review | Google Forms | 6% |
 
 For each milestone listed above, detailed expectations can be found in the "Milestone" section under the Computer Vision project page. Please refer to these sections for specific requirements and guidelines.
 
