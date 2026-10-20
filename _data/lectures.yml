@@ -75,12 +75,12 @@ lectures:
         link: https://ds100.org/course-notes/ols/
   - slug: "14"
     readings:
-      - title: Note 14
-        link: 
+      - title: Gradient Descent Notes
+        link: https://ds100.org/course-notes/gradient-descent/
   - slug: "15"
     readings:
-      - title: Note 15
-        link: 
+      - title: Gradient Descent Notes
+        link: https://ds100.org/course-notes/gradient-descent/
   - slug: "16"
     readings:
       - title: Note 16
