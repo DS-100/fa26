@@ -32,8 +32,8 @@ bcourses_course_id: 1557790
 ed_course_id: 102680
 semester: Fall 2026
 
-course_logo_path: assets/branding/panda-logo.png
-logo: assets/branding/panda-logo.png
+course_logo_path: assets/branding/polars-logo.png
+logo: assets/branding/polars-logo.png
 # logo: assets/branding/panda-st-pattys-logo.png
 
 # This should be one of eecs, dsus, stat
