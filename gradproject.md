@@ -41,6 +41,12 @@ For each milestone listed above, detailed expectations can be found in the "Mile
 ### Late Policy
 - **No Extensions or Slip Days**: Must be submitted on time; no extensions are permitted. Milestones cannot be submitted late as they are crucial for the peer review process.
 
+### Generative AI Policy
+- For this project, you are welcome to use AI in whichever way your team sees fit, with a couple of guidelines:
+  - Avoid outsourcing the entire project to an AI. You will be responsible for understanding your own analysis, code, and writing. You may be asked about them at the check-ins, either individually or as a group.
+  - Your team should be on the same page about when and where to use AI. If some team members end up less familiar with the project and can't engage with the discussion at the check-in, your entire group's grade may suffer.
+  - **AI Acknowledgement:** You are required to document your team's use of AI, and include at the end of your final report exactly to what extent you used it. Include specific examples.
+
 ## Accessing Datasets
 
 All of the provided datasets can be found in the Datahub directory `_shared/bcourses-1551658-readonly`. You can access the data directly from Datahub. If you wish to work on the project locally, you can also download the files containing the datasets for each topic by right-clicking on the file in JupyterLab and select "Copy Download Link". If you choose to train more complex models, DataHub might not have enough hardware resources or memory, in which case you can use [Google Colab](https://colab.google/){:target="_blank"} or your local machine. If you would like to use Google Colab, feel free to check out this [link](https://stackoverflow.com/questions/48376580/how-to-read-data-in-google-colab-from-my-google-drive){:target="_blank"} to get started.
