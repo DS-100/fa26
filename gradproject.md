@@ -29,18 +29,17 @@ The purpose of the project is to give students experience in both open-ended dat
 
 | Milestones  | Deadline (11:59 PM Pacific) | Event | Deliverables | Submission Link | Grading Weight |
 | ----------- | --------------------------- | ----- | ------------ | --------------- | -------------- |
-| Milestone 1 | March 4 | Group Formation + Research Proposal | [Project Proposal](https://docs.google.com/document/d/1dG6FKeC966gmec5rz6uD7tZYEVJv0n5w0kN4BuLkYnM/edit?usp=sharing){:target="_blank"} | [Pensive](https://www.pensive.com/student/classes/data100_sp26/my-assignments?submitAssignment=89e4cd98-a5de-47e9-8b52-3cf9e50c850d){:target="_blank"} | 5% |
-| Milestone 2 | March 18 | EDA | EDA Write-Up + Notebook | Pensive | 10% |
-| Milestone 3 | April 1 | Mandatory Check-In | Progress Report + Meeting Booking + Final Report Draft| Pensive | 30% |
-| Milestone 4 | April 27 | External Peer Review | External Peer Review | Pensive | 7% |
-| Final Submission | May 6 | Final Project Report | Final Project Report + Presentation Video | Project Report Pensive <br> CV Predictions Pensive | 42% |
-| Internal Peer Reviews | Due along with Milestones 3 and Final Submission | Internal Peer Review | Internal Peer Review | Google Forms | 6% |
+| Milestone 1 | March 4 | Group Formation + Research Proposal | [Project Proposal](https://docs.google.com/document/d/1dG6FKeC966gmec5rz6uD7tZYEVJv0n5w0kN4BuLkYnM/edit?usp=sharing){:target="_blank"} | Pensive | 5% |
+| Milestone 2 | March 18 | EDA | EDA Write-Up + Notebook | Pensive | 20% |
+| Milestone 3 | April 1 | Mandatory Check-In | Progress Report + Meeting Booking| Pensive | 20% |
+| Milestone 4 | April 27 | External Peer Review | External Peer Review | Pensive | 5% |
+| Final Submission | May 6 | Final Project Report | Final Project Report + Presentation Video | Project Report Pensive <br> CV Predictions Pensive | 45% |
+| Internal Peer Reviews | Due along with Milestones 3 and Final Submission | Internal Peer Review | Internal Peer Review | Google Forms | 5% |
 
 For each milestone listed above, detailed expectations can be found in the "Milestone" section under the Computer Vision project page. Please refer to these sections for specific requirements and guidelines.
 
 ### Late Policy
-- **No Extensions for Milestones**: Must be submitted on time; no extensions are permitted. Milestones cannot be submitted late as they are crucial for the peer review process.
-- **Final Report and Presentation Video**: Late submissions incur a 10% daily penalty, up to a maximum of two days. Submissions are rounded to the nearest day (e.g., 2 minutes late counts as 1 day late).
+- **No Extensions or Slip Days**: Must be submitted on time; no extensions are permitted. Milestones cannot be submitted late as they are crucial for the peer review process.
 
 ## Accessing Datasets
 
