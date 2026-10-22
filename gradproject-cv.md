@@ -21,7 +21,7 @@ In disaster situations, it is important for emergency response efforts to have a
 {:.no_toc}
 
 - Learn to work with image data by learning to use common feature extraction techniques like Sobel edge filtering.
-- Learn to work on real-world data with common complexities such as class imbalance, low signal-to-noise ratio, and high dimensional data.
+- Learn to work on real-world data with common complexities such as class imbalance, low signal-to-noise ratio, and high-dimensional data.
 - Learn how to design effective preprocessing and featurization pipelines for solving difficult machine learning tasks.
 
 ### Mission
@@ -86,7 +86,7 @@ To assess your performance, please submit predictions for the `test_images_hurri
 
 #### Resources
 {:.no_toc}
-To assist you in your efforts the agency has compiled the following list of resources:
+To assist you in your efforts, the agency has compiled the following list of resources:
 - For more background about the dataset you can look at the [paper](https://arxiv.org/pdf/1911.09296.pdf){:target="_blank"} associated with the dataset.
 - For image processing, [scikit-image](https://scikit-image.org/){:target="_blank"} is a very useful library. This [tutorial](https://www.kaggle.com/code/bextuychiev/full-tutorial-on-image-processing-in-skimage){:target="_blank"} may be helpful for learning how to use the library.
 - For problems with imbalanced classes, the [imblearn](https://imbalanced-learn.org/stable/index.html){:target="_blank"} library has useful tools and examples.
@@ -97,15 +97,17 @@ In addition to each Milestone description below, you will have to fill out an in
 
 ### Milestone 1: Group Formation + Research Proposal (5%)
 
-The first deliverable of your group project is just to form your group and submit your implementation plan to Pensive. The implementation plan should consist of a series of steps for completing the project along with a timeline. You may form groups of 2 or 3 people with any Data 200/200S student.
+The first deliverable of your group project is just to form your group and submit your implementation plan to Pensive. The implementation plan should consist of a series of steps for completing the project along with a timeline. **You must form groups of 3 or 4 with Data 200/200S students**.
 
 The rubric for this milestone is as follows:
-- Short paragraph description of implementation plan and timeline (2%).
-- Forming teams by the deadline (3%).
+- Short paragraph description of implementation plan and timeline (5%).
+- Forming teams by Friday, October 30th.
+
+**Note: If you have not reached out about not being in a team by the team formation deadline, you may receive a zero on this milestone.**
 
 <a name = 'milestone-2-eda'></a>
 
-### Milestone 2: EDA (10%)
+### Milestone 2: EDA (15%)
 
 The milestone is intended to keep you on track to meet your project goals. You will need to submit an exploratory data analysis report to Pensive as a PDF file. This will include submitting both a report of your results so far as well as all code necessary to replicate your results. Please answer all the questions below. Your report should answer the following questions (note these questions should be answered in the form of a report and not as bullet points):
 
@@ -126,7 +128,7 @@ The milestone is intended to keep you on track to meet your project goals. You w
   - Descriptions of your figures. Takeaways from the figures.
   - These figures must be of good quality (i.e. they must include axes, titles, labels, etc.) and they must be relevant to your proposed analysis.
 
-Concretely, here are the minimal requirements for EDA for each project. Using your knowledge from Data 200, what would be appropriate data visualizations? You are welcome to do more than the minimal requirements.
+Concretely, here are the minimal requirements for EDA for each project. Using your knowledge from Data 200, what would be appropriate data visualizations? You are encouraged to do more than the minimal requirements.
 
   - Number of images per disaster.
   - Image sizes in each dataset. Should ideally observe large variance in sizes, but similar distribution for each disaster.
@@ -135,54 +137,66 @@ Concretely, here are the minimal requirements for EDA for each project. Using yo
   - (Open-ended) Convey that the distributions are “separable” somehow.
 
 The rubric for this milestone is as follows:
-- Data Sampling and Collection (1%).
+- Data Sampling and Collection (2%).
 - Data Cleaning (3%).
-- Exploratory Data Analysis (3%).
-- Figures (tables, plots, etc.) (3%).
+- Exploratory Data Analysis (5%).
+- Figures (tables, plots, etc.) (5%).
 
-### Milestone 3: Progress-report Draft (10%)
+### Milestone 3: Progress Report (20%)
 
-The purpose of this milestone is to ensure you are making progress and on schedule to submit the first draft of the project in approximately two weeks time. You will be required to make a document summarizing your progress so far, including your EDA and modeling results. You are required to submit a **1-2 page** report to Pensive. The staff member will skim the report before the meeting and give you guidance on the project as a whole.
+The purpose of this milestone is to ensure you are making progress and on schedule to submit the first draft of the project in approximately three weeks' time. You will be required to make a document summarizing your progress so far, including your EDA and modeling results. You are required to submit a **2-3 page** report to Pensive. The staff member will skim the report before the meeting and give you guidance on the project as a whole.
 
-For the check-in we would like for you to prepare brief answers to the following questions about the modeling process:
+You should make sure to address the following topics:
+- Data collection and sampling
+- Data cleaning
+- Exploratory data analysis (data wrangling, visualization, etc.)
+- Data modeling (feature engineering, selection of the model, and evaluation of the model's performance, etc.)
+- Inference (how do your results support your conclusions)
+- Discussion (limitations, etc.)
+
+**Note: Other groups will be reading your progress reports. You should format them such that a fresh reviewer will be able to understand what's going on. Include any necessary background material and context at the beginning.**
+
+For the check-in, we would like you to prepare brief answers to the following questions about the modeling process:
 - What model do you plan on using and why?
 - Does your model require hyperparameter tuning? If so, how do you approach it?
 - How do you engineer the features for your model? What are the rationales behind selecting these features?
-- How do you perform cross validation on your model?
+- How do you perform cross-validation on your model?
 - What loss metrics are you using to evaluate your model?
 - From a bias-variance tradeoff standpoint, how do you assess the performance of your model? How do you check if it is overfitting?
 - How would you improve your model based on the outcome?
 - Are there any further extensions to your model that would be worth exploring?
 
-More information about the check-in meeting will be shared on Ed near the check-in meeting week.
+More information about the check-in meeting will be shared closer to the check-in meeting week.
 
 The rubric for this milestone is as follows:
-- Report (7%) -
-  - Exploratory Data Analysis (1%).
-  - Feature Engineering (2%).
-  - Modeling Approaches (2%).
-  - Preliminary Results (2%).
-- Meeting (3%) - Happening through sign-up
+- Report (15%) -
+  - Exploratory Data Analysis (2%).
+  - Feature Engineering (4%).
+  - Modeling Approaches (4%).
+  - Preliminary Results (5%).
+- Meeting (5%) - Happening through sign-up
   - All members' participation in the meeting and proper explanation of the work completed, as well as a clear plan for future steps the team will take in completing the project.
 
+<!-- 
 ### Milestone 4: Project Report First Draft (20%)
 
 Please see the information below on what you should aim to submit. You do not need to submit the code, video, and test set performance components for Milestone 6, but you are expected to submit a comprehensive written report summarizing your analysis.
 
 Please refer to the section on the [Final Project Report](#final-project-report) for more information on how your first draft will roughly be graded. Your first draft will be graded more leniently than your final submission, but we’re still looking for largely the same elements.
 
-Submit to the first draft project report assignment.
+Submit to the first draft project report assignment. 
+-->
 
-### Milestone 5: External Peer Review (7%)
+### Milestone 4: External Peer Review (5%)
 
 Each group will peer review a project from another group; each group will be graded together based on the feedback they provide in their review. Each review should include the following components:
 
 1. (1%) A summary of the report. The summary should address at least the following:
 - What is the conclusion drawn from the EDA and modeling results?
-- What data modeling/inference techniques do the group primarily use to gain insights into their research question? Why are these techniques suitable for the task?
+- What data modeling/inference techniques does the group primarily use to gain insights into their research question? Why are these techniques suitable for the task?
 - What are the next steps a researcher can take if they want to improve their model further based on the work in the project?
 
-2. (6%, 1% per component) An evaluation of the report based on the Data Science Lifecycle. The review should include at least **one strong point and one suggestion for improvement** for each of the following components in the project:
+2. (4%) An evaluation of the report based on the Data Science Lifecycle. The review should include at least **one strong point and one suggestion for improvement** for each of the following components in the project:
 - Data collection and sampling
 - Data cleaning
 - Exploratory data analysis (data wrangling, visualization, etc.)
@@ -190,11 +204,13 @@ Each group will peer review a project from another group; each group will be gra
 - Inference (do the results from the model sufficiently support the conclusion within the report?)
 - Discussion (does the report effectively discuss the limitations of the methods used and the implications of the results?)
 
-The external peer review is also a great chance to learn from other people's work and reflect on your own work. Submit one combined review to the external peer review assignment on Pensive. Remember to add your group members on your submission.
+**Note: Keep in mind that you're only judging progress reports. So teams may not have gone into much detail for the inference and discussion components.**
+
+The external peer review is also a great chance to learn from other people's work and reflect on your own work. Submit one combined review to the external peer review assignment on Pensive. Remember to add your group members to your submission.
 
 <a name = 'final-project-report'></a>
 
-## Final Project Report (42%)
+## Final Project Report (50%)
 
 **The project submission should include the following four components, submitted across three Pensive assignments.** For all three assignments, submit one per group. Make sure to add your group members on the Pensive submission.
 
@@ -213,7 +229,7 @@ Please use student IDs joined by `_` as the name for the top-level directory. Th
 
 **For component 4, you will submit your test set predictions to the CV predictions assignment.** See below for more details.
 
-### [Component 1] Analysis Notebooks (10%)
+### [Component 1] Analysis Notebooks (5%)
 
 This component includes all the Jupyter Notebook(s) containing all the analyses that you performed on the datasets to support your claims in your write-up. Make sure that all references to datasets are done as `data/[path to data files]`. By running these notebooks, we should be able to replicate all the analysis/figures done in your write-up.
 
@@ -263,9 +279,9 @@ Tip: if you need to write a large amount of LaTeX on markdown, you may want to u
 | Overall clarity and structure of the report                            | 2     |
 | **Total**                                                              | **20**|
 
-### [Component 3] Video Recording (10%)
+### [Component 3] Video Recording (15%)
 
-The presentation video should provide an overview of your project, highlighting the main points outlined in the write-up. The video should be approximately 5-7 minutes long but can extend up to 10 minutes. You should upload your video to YouTube and include the YouTube link in your final project write-up.
+The presentation video should provide an overview of your project, highlighting the main points outlined in the write-up. The video should be approximately 5-7 minutes long but can extend up to 10 minutes. You should upload your video to YouTube and include the YouTube link in your final project write-up. You will receive a 0% on this component if the video is not visible to any public account.
 
 ### [Component 4] Test Set Performance (10%)
 
@@ -273,7 +289,7 @@ This component of the final report will be graded based on your models' performa
 
 `test_images_flooding-fire.npz` is the test for Task A and `test_images_hurricane-matthew.npz` is the test set for Task B; both files are located in the `_shared/bcourses-1551658-readonly` directory on Data 100 Datahub.
 
-Please submit two CSV files named `test_images_flooding-fire_predictions.csv`, and `test_images_hurricane-matthew_predictions.csv` to the predictions assignment. Each CSV should only contain one column named `pred`.
+Please submit two CSV files named `test_images_flooding-fire_predictions.csv`, and `test_images_hurricane-matthew_predictions.csv` to the predictions assignment. Each CSV should contain only one column named `pred`.
 
 The maximum for each task is 5 points; please see the thresholds for the tasks below.
 
