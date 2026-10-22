@@ -46,6 +46,9 @@ favicon_ico: "/assets/branding/favicon.ico"
 current_week: 9
 
 nav_external_links:
+  - title: Graduate Project
+    url: https://ds100.org/fa26/gradproject/
+    hide_icon: true
   - title: Course Acknowledgements
     url: https://ds100.org/acknowledgements/
     hide_icon: true
