@@ -29,11 +29,11 @@ The purpose of the project is to give students experience in both open-ended dat
 
 | Milestones  | Deadline (11:59 PM Pacific) | Event | Deliverables | Submission Link | Grading Weight |
 | ----------- | --------------------------- | ----- | ------------ | --------------- | -------------- |
-| Milestone 1 | March 4 | Group Formation + Research Proposal | [Project Proposal](https://docs.google.com/document/d/1dG6FKeC966gmec5rz6uD7tZYEVJv0n5w0kN4BuLkYnM/edit?usp=sharing){:target="_blank"} | Pensive | 5% |
-| Milestone 2 | March 18 | EDA | EDA Write-Up + Notebook | Pensive | 20% |
-| Milestone 3 | April 1 | Mandatory Check-In | Progress Report + Meeting Booking| Pensive | 20% |
-| Milestone 4 | April 27 | External Peer Review | External Peer Review | Pensive | 5% |
-| Final Submission | May 6 | Final Project Report | Final Project Report + Presentation Video | Project Report Pensive <br> CV Predictions Pensive | 45% |
+| Milestone 1 | November 6th | Group Formation + Research Proposal | [Project Proposal](https://docs.google.com/document/d/1dG6FKeC966gmec5rz6uD7tZYEVJv0n5w0kN4BuLkYnM/edit?usp=sharing){:target="_blank"} | Pensive | 5% |
+| Milestone 2 | November 13th | EDA | EDA Write-Up + Notebook | Pensive | 20% |
+| Milestone 3 | November 20th | Mandatory Check-In | Progress Report + Meeting Booking| Pensive | 20% |
+| Milestone 4 | December 4th | External Peer Review | External Peer Review | Pensive | 5% |
+| Final Submission | December 11th | Final Project Report | Final Project Report + Presentation Video | Project Report Pensive <br> CV Predictions Pensive | 45% |
 | Internal Peer Reviews | Due along with Milestones 3 and Final Submission | Internal Peer Review | Internal Peer Review | Google Forms | 5% |
 
 For each milestone listed above, detailed expectations can be found in the "Milestone" section under the Computer Vision project page. Please refer to these sections for specific requirements and guidelines.
