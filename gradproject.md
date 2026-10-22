@@ -29,7 +29,7 @@ The purpose of the project is to give students experience in both open-ended dat
 
 | Milestones  | Deadline (11:59 PM Pacific) | Event | Deliverables | Submission Link | Grading Weight |
 | ----------- | --------------------------- | ----- | ------------ | --------------- | -------------- |
-| Milestone 1 | November 6th | Group Formation + Research Proposal | [Project Proposal](https://docs.google.com/document/d/1dG6FKeC966gmec5rz6uD7tZYEVJv0n5w0kN4BuLkYnM/edit?usp=sharing){:target="_blank"} | Pensive | 5% |
+| Milestone 1 | October 30th, November 6th | Group Formation + Research Proposal | [Project Proposal](https://docs.google.com/document/d/1dG6FKeC966gmec5rz6uD7tZYEVJv0n5w0kN4BuLkYnM/edit?usp=sharing){:target="_blank"} | Pensive | 5% |
 | Milestone 2 | November 13th | EDA | EDA Write-Up + Notebook | Pensive | 15% |
 | Milestone 3 | November 20th | Mandatory Check-In | Progress Report + Meeting Booking| Pensive | 20% |
 | Milestone 4 | December 4th | External Peer Review | External Peer Review | Pensive | 5% |
