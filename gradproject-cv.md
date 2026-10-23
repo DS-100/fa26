@@ -283,7 +283,9 @@ Tip: if you need to write a large amount of LaTeX on markdown, you may want to u
 
 ### [Component 3] Video Recording (15%)
 
-The presentation video should provide an overview of your project, highlighting the main points outlined in the write-up. The video should be approximately 5-7 minutes long but can extend up to 10 minutes. You should upload your video to YouTube and include the YouTube link in your final project write-up. You will receive a 0% on this component if the video is not visible to any public account.
+The presentation video should provide an overview of your project, highlighting the main points outlined in the write-up. The video should be approximately 6-8 minutes long and may not extend beyond that. Upload your video to YouTube and include the YouTube link in your final project write-up. You will receive a 0% on this component if the video is not visible to a non-berkeley.edu account (an unlisted video is fine).
+
+**You may NOT use any generative AI when recording the video.**
 
 ### [Component 4] Test Set Performance (10%)
 
