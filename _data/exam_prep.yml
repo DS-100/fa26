@@ -26,8 +26,8 @@ exam_prep:
   # - title: "Spring Break"
   #   date: 2026-03-23
   #   nonumber: true
-  # - slug: "07"
-  #   date: 2026-03-30
+  - slug: "07"
+    date: 2026-10-26
   # - slug: "08"
   #   date: 2026-04-13
   # - slug: "09"
