@@ -7,8 +7,8 @@ description: >-
 markdown: kramdown
 ---
 
-{: .warning }
-⚠️ This website is still under construction! The content on this page is subject to change.
+<!-- {: .warning }
+⚠️ This website is still under construction! The content on this page is subject to change. -->
 
 
 # Syllabus
