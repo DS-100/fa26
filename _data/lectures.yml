@@ -83,12 +83,12 @@ lectures:
         link: https://ds100.org/course-notes/gradient-descent/
   - slug: "16"
     readings:
-      - title: Note 16
-        link: 
+      - title: Case Study HCE Notes
+        link: https://ds100.org/course-notes/case-study-hce/
   - slug: "17"
     readings:
-      - title: Note 17
-        link: 
+      - title: Feature Engineering Notes
+        link: https://ds100.org/course-notes/feature-engineering/
   - slug: "18"
     readings:
       - title: Note 18
