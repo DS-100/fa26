@@ -40,7 +40,7 @@ logo: assets/branding/polars-logo.png
 course_department: dsus
 class_archive_path: /
 
-favicon_ico: "/assets/branding/favicon.ico"
+favicon_ico: "/assets/branding/favicon.ico?v=2"
 
 # Update each week for "Jump to Current Week" button
 current_week: 10
