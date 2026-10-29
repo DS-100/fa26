@@ -33,7 +33,7 @@ ed_course_id: 102680
 semester: Fall 2026
 
 course_logo_path: assets/branding/polars-logo.png
-logo: assets/branding/polars-logo.png
+logo: assets/branding/polars-halloween-logo.png
 # logo: assets/branding/panda-st-pattys-logo.png
 
 # This should be one of eecs, dsus, stat
