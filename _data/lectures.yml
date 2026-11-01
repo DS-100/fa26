@@ -91,16 +91,16 @@ lectures:
         link: https://ds100.org/course-notes/feature-engineering/
   - slug: "18"
     readings:
-      - title: Note 18
-        link: 
+      - title: Cross Validation and Regularization Notes
+        link: https://ds100.org/course-notes/cv-reg/
   # - title: "Spring Break"
   #   nonumber: true
   # - title: "Spring Break"
   #   nonumber: true
   - slug: "19"
     readings:
-      - title: Note 19
-        link: 
+      - title: Random Variables Notes
+        link: https://ds100.org/course-notes/probability-1/
   - slug: "20"
     readings:
       - title: Note 20
