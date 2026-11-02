@@ -28,8 +28,8 @@ exam_prep:
   #   nonumber: true
   - slug: "07"
     date: 2026-10-26
-  # - slug: "08"
-  #   date: 2026-04-13
+  - slug: "08"
+    date: 2026-11-02
   # - slug: "09"
   #   date: 2026-04-20
   # - slug: "10"
