@@ -5,6 +5,9 @@
   document.documentElement.setAttribute('data-theme', theme);
 </script>
 
+<script type="application/json" id="logo-schedule-data" data-baseurl="{{ site.baseurl }}">{{ site.data.logo_schedule | jsonify }}</script>
+<script defer src="{{ site.baseurl }}/assets/scripts/logo-switcher.js"></script>
+
   <!-- Loading the v6 core styles and the Solid and Brands styles -->
   <link href="{{ site.baseurl }}/assets/vendor/fontawesome/css/fontawesome.css" rel="stylesheet" />
   <link href="{{ site.baseurl }}/assets/vendor/fontawesome/css/solid.css" rel="stylesheet" />

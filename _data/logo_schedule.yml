@@ -1,0 +1,18 @@
+# The normal logo to use when no date range below matches.
+default: assets/branding/polars-logo.png
+
+# Date ranges are inclusive. Use YYYY-MM-DD dates.
+# Add one entry per special logo; overlapping ranges use the first match.
+special_logos:
+  - name: Halloween
+    start: 2026-10-25
+    end: 2026-10-31
+    path: assets/branding/polars-halloween-logo.png
+  # - name: Halloween
+  #   start: 2026-10-25
+  #   end: 2026-10-31
+  #   path: assets/branding/polars-halloween-logo.png
+  # - name: St. Patrick's Day
+  #   start: 2027-03-14
+  #   end: 2027-03-17
+  #   path: assets/branding/panda-st-pattys-logo.png
