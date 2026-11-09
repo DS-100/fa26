@@ -103,8 +103,8 @@ lectures:
         link: https://ds100.org/course-notes/probability-1/
   - slug: "20"
     readings:
-      - title: Note 20
-        link: 
+      - title: Estimators, Bias, & Variance Notes
+        link: https://ds100.org/course-notes/probability-2/
   - slug: "21"
     readings:
       - title: Note 21
