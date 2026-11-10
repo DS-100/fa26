@@ -7,7 +7,6 @@ date: 2026-11-09
 1. Welcome to [Week {{page.week}}](#week-{{page.week}}) of Data 100!
 
 **Important Ed Threads:**<br>
-[Quizterm 2 Logistics](https://edstem.org/us/courses/102680/discussion/8426169)<br>
 [Lecture 20: Estimators, Bias, and Variance](https://edstem.org/us/courses/102680/discussion/8476051)<br> 
 [Lecture 21: Parameter Inference and the Bootstrap](https://edstem.org/us/courses/102680/discussion/8485750)<br>
 [Project A2](https://edstem.org/us/courses/102680/discussion/8464772)<br>
