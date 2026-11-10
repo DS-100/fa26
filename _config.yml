@@ -139,6 +139,11 @@ google_calendar:
       text_color: 'FFFFFF'
       class: cal-deadline
       icon: fa-calendar-check
+    - suffix: Party
+      background_color: 'D9CEFF' # purple light
+      text_color: '000000'
+      class: cal-oh
+      icon: fa-person-circle-question
 
 # Collections for website data
 collections:
