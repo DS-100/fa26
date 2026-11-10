@@ -30,8 +30,8 @@ exam_prep:
     date: 2026-10-26
   - slug: "08"
     date: 2026-11-02
-  # - slug: "09"
-  #   date: 2026-04-20
+  - slug: "09"
+    date: 2026-11-09
   # - slug: "10"
   #   date: 2026-04-27
   # - slug: "11"
