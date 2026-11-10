@@ -107,8 +107,8 @@ lectures:
         link: https://ds100.org/course-notes/probability-2/
   - slug: "21"
     readings:
-      - title: Note 21
-        link: 
+      - title: Parameter Inference and Bootstrapping Notes
+        link: https://ds100.org/course-notes/inference-causality/
   - slug: "22"
     readings:
       - title: Note 22
