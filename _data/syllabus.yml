@@ -76,6 +76,22 @@ extra_links_col4:
     label: homework-released
     label-number: 1
     link: https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Ffa26-student&branch=main&urlpath=lab%2Ftree%2Ffa26-student%2Fhw%2Fhw01%2Fhw01.ipynb
+  - date: 2026-11-13
+    title: "Coding"
+    label: homework-released
+    label-number: 7
+    link: https://drive.google.com/file/d/1U2mWmuJZBmMx_xBn_8hK5dRL7ffqNVX-/view?usp=sharing
+  - date: 2026-11-13
+    title: "Housing II"
+    label: project-due
+    label-number: A2
+    link: https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Ffa26-student&branch=main&urlpath=lab%2Ftree%2Ffa26-student%2Fproj%2FprojA2%2FprojA2.ipynb
+  - date: 2026-11-20
+    title: "Coding"
+    label: homework-due
+    label-number: 7
+    link: https://drive.google.com/file/d/1U2mWmuJZBmMx_xBn_8hK5dRL7ffqNVX-/view?usp=sharing
+  # - date: 2026-02-20
   # - date: 2026-02-20
   #   title: "Visualization"
   #   label: homework-released
