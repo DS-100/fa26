@@ -111,12 +111,12 @@ lectures:
         link: https://ds100.org/course-notes/inference-causality/
   - slug: "22"
     readings:
-      - title: Note 22
-        link: 
+      - title: Logistic Regression I Notes
+        link: https://ds100.org/course-notes/logistic-reg-1/
   - slug: "23"
     readings:
-      - title: Note 23
-        link: 
+      - title: Logistic Regression II Notes
+        link: https://ds100.org/course-notes/logistic-reg-2/
   - slug: "24"
     readings:
       - title: Note 24
