@@ -65,6 +65,8 @@ become part of the history of Data 100 at Berkeley.
 + We've assembled some [SQL Review Slides](https://docs.google.com/presentation/d/1mLVkQxah9asdKhnTNpcUSYBOuKGSWE_d3MJ5nYuTw9U/edit?usp=sharing) to help you brush up on SQL.
 + This [SQL Cheat Sheet](https://websitesetup.org/sql-cheat-sheet/) is an awesome resource that was created by Luke Harrison, a former Data 100 student.
 
++ [WebCheatSheet SQL reference](https://webcheatsheet.com/sql/index) provides short examples of filtering, joins, grouping, and aggregate queries.
+
 ### Regex
 + [Regex101.com](https://regex101.com). Remember to select the Python flavour of Regex!
 + [Data 100 Regex Reference Sheet](https://drive.google.com/file/d/1-OkbAv-iLCljI_6b-NcmmmosePbP3jEZ/view)
