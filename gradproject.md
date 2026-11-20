@@ -34,7 +34,7 @@ The purpose of the project is to give students experience in both open-ended dat
 | Milestone 3 | November 20th | Mandatory Check-In | Progress Report + Meeting Booking| Pensive | 20% |
 | Milestone 4 | December 4th | External Peer Review | External Peer Review | Pensive | 5% |
 | Final Submission | December 11th | Final Project Report | Final Project Report + Presentation Video | Project Report Pensive <br> CV Predictions Pensive | 50% |
-| Internal Peer Reviews | Due along with Milestones 3 and Final Submission | Internal Peer Review | Internal Peer Review | Google Forms | 5% |
+| Internal Peer Reviews | Due along with the Final Submission | Internal Peer Review | Internal Peer Review | Google Forms | 5% |
 
 For each milestone listed above, detailed expectations can be found in the "Milestone" section under the Computer Vision project page. Please refer to these sections for specific requirements and guidelines.
 
