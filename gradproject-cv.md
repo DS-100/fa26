@@ -93,7 +93,7 @@ To assist you in your efforts, the agency has compiled the following list of res
 
 ## Milestone Descriptions
 
-In addition to each Milestone description below, you will have to fill out an internal peer review form every week. The internal peer review is for checking if each member of the group is contributing to the project and how the tasks are distributed among members. This is graded on completion and submitted via Pensive each week.
+In addition to the Milestones described below, you will have to fill out an internal peer review form alongside the final report submission. The internal peer review is for checking if each member of the group is contributing to the project and how the tasks are distributed among members. This is graded on completion unless a group expresses serious discontent with certain group members.
 
 ### Milestone 1: Group Formation + Research Proposal (5%)
 
