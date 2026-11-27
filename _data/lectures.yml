@@ -119,8 +119,8 @@ lectures:
         link: https://ds100.org/course-notes/logistic-reg-2/
   - slug: "24"
     readings:
-      - title: Note 24
-        link: 
+      - title: PCA Notes
+        link: https://ds100.org/course-notes/pca/
   - slug: "25"
     readings:
       - title: Clustering Notes
